@@ -1,5 +1,3 @@
-<link href="Ulysses.css" rel="stylesheet"></link>
-
 ![](20170807_NYorker.jpg "The New Yorker - August 7th & 14th, 2017")
 
 * Anne **CARSON** - [“Clive Song”](https://www.evernote.com/shard/s122/sh/a9ad5e3f-de95-4820-935a-d26fee880407/812fc8b57d969669b053fd485c14a271) (Poésie)
