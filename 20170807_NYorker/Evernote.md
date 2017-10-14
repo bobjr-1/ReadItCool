@@ -1,3 +1,9 @@
+<font color="#dedede"><b>Source :</b> https://www.newyorker.com/magazine/2017/08/07
+
+<i><span role="img" aria-label="copyright icon" data-reactid="890">©</span> 2017 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our [user agreement](http://www.condenast.com/privacy-policy) (effective 1/2/2016) and [privacy policy](http://www.condenast.com/privacy-policy#privacypolicy) (effective 1/2/2016). [Your California privacy rights](http://www.condenast.com/privacy-policy#privacypolicy-california). The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with prior written permission of Condé Nast. _The New Yorker_ may earn a portion of sales from products and services that are purchased through links on our site as part of our affiliate partnerships with retailers.</i></font>
+
+---
+
 ![](20170807_NYorker.jpg "The New Yorker - August 7th & 14th, 2017")
 
 * Anne **CARSON** - [“Clive Song”](https://www.evernote.com/shard/s122/sh/a9ad5e3f-de95-4820-935a-d26fee880407/812fc8b57d969669b053fd485c14a271) (Poésie)
