@@ -1,4 +1,4 @@
-Lien vers les compilations d'articles : https://DrujDiary.github.io/index.html
+Lien vers les compilations d'articles : https://bobjr-1.github.io/ReadItCool/
 
 
 
