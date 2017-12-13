@@ -1,5 +1,6 @@
 <font color="#d13416"><b>Source :</b> <a href="https://chess24.com/en/read/news">https://chess24.com/en/read/news</a><br>
-<i><span role="img" aria-label="copyright icon" data-reactid="890">©</span> chess24.com | All rights reserved.</i></font><br>&nbsp;
+<i><span role="img" aria-label="copyright icon" data-reactid="890">©</span> chess24.com | All rights reserved</i><br>parties (format PGN) : <i><span role="img" aria-label="copyright icon" data-reactid="890">©</span> <a href="http://theweekinchess.com/">The Week in Chess</a> | All material</i></font><br>&nbsp;
+<br>&nbsp;
 
 ---
 
