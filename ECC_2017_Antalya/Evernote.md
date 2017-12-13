@@ -12,4 +12,8 @@
 * [**Round 6**](https://www.evernote.com/shard/s122/sh/ba7d0ef4-3339-4bca-8a81-6fe96ec60abb/4c96b426c1907437b71f66dc89e6ac1f)
 * [**Round 7**](https://www.evernote.com/shard/s122/sh/1d8bb8a1-41c3-461a-abfa-0c4c1a252001/47887cc8be03da18499a4bcaa3e6beee)
 
-[![](epub.png "lire les articles hors-ligne")](ECC_2017_Antalya.epub) pour télécharger la compilation `EPUB - 116kb`
+[![](epub.png "lire les articles hors-ligne")](ECC_2017_Antalya.epub) pour télécharger la compilation `EPUB - 5.19 Mb`
+
+[![](PGN.png "Open Tournament (PGN format)")](ecc17.pgn) pour télécharger les parties du tournoi *Open* `PGN - 704kb`
+
+[![](PGN.png "Women's Tournament (PGN format)")](eccw17.pgn) pour télécharger les parties du tournoi féminin `PGN - 160kb`
