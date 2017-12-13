@@ -56,7 +56,7 @@ Les Délégations syndicales insistent pour que des documents de travail soient 
     * des résultats de la concertation ;
     * des analyses de risques (sécurité des bâtiments, psychosociales Contact Center, E6, ...) ;
     * des avis/points de vue des délégations syndicales ;
-    * mieux mis en évidence des actions sociales initiées par l'asbl "Service Social"
+    * meilleure mise en évidence des actions sociales initiées par l'asbl "Service Social"
 * Gel des déménagements, y compris pour  l'Autorité Belge de la Concurrence
 
 ## Comité Intermédiaire (CIC/TOC)
