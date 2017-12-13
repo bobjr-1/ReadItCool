@@ -114,3 +114,6 @@ Les Délégations syndicales insistent pour que des documents de travail soient 
 * Analyse de risques travail sur écrans (là où le matériel est moins bien "suivi" par S2/S3 pour des raisons d'éloignement de Bruxelles et/ou pour raisons budgétaires)
 * Analyse des risques thermiques (température, taux d'humidité) et des améliorations à la protection contre les rayons du soleil en été (Gand, Mons, Liège, Belgrade,...)
 
+## Le projet (REV1) en format Word
+
+* [**fichier à télécharger**](REV1.docx)
