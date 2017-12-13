@@ -36,7 +36,7 @@ Les Délégations syndicales insistent pour que des documents de travail soient 
 
 ## Comité de Secteur IV (CSect)
 
-*<u>Pour référence :</u> le Comité Supérieur est convoqué pour :*  
+*<u>Pour référence :</u> le Comité de Secteur est convoqué pour :*  
 * *négocier les arrêtés organiques des institutions composant le Secteur IV ;*
 * *organiser les relations de coopération entre institutions.*
 
