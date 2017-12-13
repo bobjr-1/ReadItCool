@@ -85,7 +85,7 @@ Les Délégations syndicales insistent pour que des documents de travail soient 
 * Responsabilité sociétale (ou sociale) des entreprises (`RSE`) : comme le confirme le [site du SPF &Eacute;conomie](http://economie.fgov.be/fr/entreprises/vie_entreprise/responsabilite_societale_des_entreprises/), la Belgique figure en première ligne depuis 2006 - qu'en est-il des engagements du SPF lui-même :
     * en matière de lutte contre la corruption ?
     * de *corporate governance* en général ?
-    * <mark>&nbsp;latest commit:&nbsp;</mark> le fait est que le [contrat d'adminstration](http://economie.fgov.be/fr/modules/publications/general/le_contrat_d_administration.jsp) signé en janvier 2016 ne va pas très loin en la matière, alors qu'il est censé servir de base à l'évaluation ultime des *managers*...
+    * <mark>&nbsp;latest commit:&nbsp;</mark> le fait est que le [contrat d'administration](http://economie.fgov.be/fr/modules/publications/general/le_contrat_d_administration.jsp) signé en janvier 2016 ne va pas très loin en la matière, alors qu'il est censé servir de base à l'évaluation ultime des *managers*...
 
 ## Comités de base (CCB/BOC)
 

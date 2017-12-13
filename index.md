@@ -4,7 +4,7 @@
 
 ## Docs CSC - Services Publics 
 
-* 03.10.2017 - Présentation AristA - [**analyse de risques E6**](Presentation_ARIPSO.pdf)
+* 03.10.2017 - Présentation AristA - [**analyse de risques E6**](/CSC-SP/Presentation_ARIPSO.pdf)
 
 * <font color="teal"><b>Inventaire des sujets de concertation jamais/non traités</b></font>
 
