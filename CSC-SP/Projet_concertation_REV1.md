@@ -1,6 +1,6 @@
-**`REV 0`**  
-`1st commit: 07.07.2017 (14:26)`  
-`latest commit: 04.12.2017 (21:41)`  
+**`REV 1`**  
+`1st commit: 06.12.2017 (12:13)`  
+`latest commit: 13.12.2017 (10:52)`  
 
 ----
 
@@ -21,7 +21,7 @@
 
 > <mark>&nbsp;latest commit:&nbsp;</mark> Au début du Comité Commun "*&Eacute;conomie*" de la CSC-Services Publics du 04.12.2017, cette idée a été relancée =&gt; <mark>&nbsp;<b>TO DO :</b> rédiger un <b>REV1</b> pour &pm; le 13.12.2017&nbsp;</mark> 
 
-## Présentation possible vis-à-vis de l'Autorité
+## Présentation possible du projet vis-à-vis de l'Autorité
 
     Programme de travail de la concertation
 
