@@ -1,6 +1,6 @@
 **`REV 1`**  
 `1st commit: 06.12.2017 (12:13)`  
-`latest commit: 13.12.2017 (10:52)`  
+`latest commit: 13.12.2017 (11:52)`  
 
 ----
 
@@ -19,10 +19,11 @@
 
 > Sous "Divers", donc, il se proposa de rédiger un inventaire *martyr* dans les délais souhaités par le Président.
 
-> <mark>&nbsp;latest commit:&nbsp;</mark> Au début du Comité Commun "*&Eacute;conomie*" de la CSC-Services Publics du 04.12.2017, cette idée a été relancée =&gt; <mark>&nbsp;<b>TO DO :</b> rédiger un <b>REV1</b> pour &pm; le 13.12.2017&nbsp;</mark> 
+> C'est au début du Comité Commun "*&Eacute;conomie*" de la CSC-Services Publics du 04.12.2017 que cette idée a été relancée. 
 
 ## Présentation possible du projet vis-à-vis de l'Autorité
 
+    TITRE : 
     Programme de travail de la concertation
 
 Les Délégations syndicales, tenant compte des avis négatifs qu'ils ont donnés lors de la réunion CIC/TOC du 07.04.2017 et l'absence de documents de séance lors des réunions du 07.04.2017 et du 17.07.2017, souhaitent faire l'inventaire des questions qui nécessitent encore concertation et/ou négociation.
@@ -33,18 +34,6 @@ Souhaitant que les questions soient traitées entièrement quant au fond et fass
 
 Les Délégations syndicales insistent pour que des documents de travail soient présentés, soit par l'Autorité, soit par les Délégations syndicales, afin de discuter sur des bases concrètes et incontestables.
 
-    > Vérifier si les points suivants sont à soumettre à la négociation/concertation 
-
-Domaines encore à examiner (&nbsp;<mark>par RD</mark>&nbsp;) <mark><i>via</i> un <b>REV1</b> s'il est donné suite à l'idée d'établir un Programme de Travail de la Concertation</mark> :
-
-    Plan Global de Prévention (volets spécifiques ?)
-
-	Quid Code Pénal Social ?
-
-    Quid EMAS ?
-
-    Quid Responsabilité sociétale des entreprises ?
-
 ## Comité de Secteur IV (CSect)
 
 *<u>Pour référence :</u> le Comité Supérieur est convoqué pour :*  
@@ -54,7 +43,7 @@ Domaines encore à examiner (&nbsp;<mark>par RD</mark>&nbsp;) <mark><i>via</i> u
 > **Président :** le ministre, représenté par le Président du Comité de direction du SPF Economie  
 > **Secrétaire** : Mme C. Denis
 
-* <mark>&nbsp;latest commit:&nbsp;</mark> Commander une étude du Bureau Fédéral du Plan à propos des pensions (Cf. `proposition de Chr. Ferdinand` en séance le 04.12.2017)
+* Commander une étude du Bureau Fédéral du Plan à propos des pensions (Cf. `proposition de Chr. Ferdinand` en séance le 04.12.2017)
 
 ## Comité Supérieur (CSC/HOC)
 
@@ -68,7 +57,7 @@ Domaines encore à examiner (&nbsp;<mark>par RD</mark>&nbsp;) <mark><i>via</i> u
     * des analyses de risques (sécurité des bâtiments, psychosociales Contact Center, E6, ...) ;
     * des avis/points de vue des délégations syndicales ;
     * mieux mis en évidence des actions sociales initiées par l'asbl "Service Social"
-* <mark>&nbsp;latest commit:&nbsp;</mark> Gel des déménagements, y compris pour  l'Autorité Belge de la Concurrence
+* Gel des déménagements, y compris pour  l'Autorité Belge de la Concurrence
 
 ## Comité Intermédiaire (CIC/TOC)
 
@@ -85,13 +74,18 @@ Domaines encore à examiner (&nbsp;<mark>par RD</mark>&nbsp;) <mark><i>via</i> u
     * aspects P&O + *Persopoint*
     * Service Social (personnel & moyens nécessaires)
 * Questions parlementaires (Cf. avis négatif d'avril 2017 du FC) - la position de l'Autorité reste dans le vague ...
-
----
-
-	+ (à vérifier) Coordination et responsabilités
-
----
-
+* Rédaction d'un nouveau Plan Global de Prévention (pour les années 2018-2022) ; le PGP doit se décliner en PAPs (Plans Annuels de Prévention) qui sont suivis ensuite par les CCBs (ici, principalement le CCB2)
+    * le projet de PGP est rédigé par le Conseiller en Prévention (Ph. Hulin), adopté par le Comité de direction et soumis à la concertation syndicale
+    * [selon la loi](http://www.emploi.belgique.be/politique_du_bien-etre.aspx#AutoAncher3), chaque PAP doit être soumis en novembre de l'année qui précède son entrée en vigueur
+* Politique environnementale : comme le rappelle le [site du SPF &Eacute;conomie](http://economie.fgov.be/fr/spf/Emas/), cette politique :
+    * s'est concrétisée par une reconnaissance (label) `EMAS` pour les procédures d'organisation (logistique)
+    * s'est concrétisée par une reconnaissance (label) `EMAS` pour la gestion du bâtiment *Atrium*  
+    * par contre, le bâtiment *North Gate* n'a jamais pu obtenir le label `EMAS`
+    * la politique environnementale du SPF n'a jamais été soumise à la concertation syndicale
+* Responsabilité sociétale (ou sociale) des entreprises (`RSE`) : comme le confirme le [site du SPF &Eacute;conomie](http://economie.fgov.be/fr/entreprises/vie_entreprise/responsabilite_societale_des_entreprises/), la Belgique figure en première ligne depuis 2006 - qu'en est-il des engagements du SPF lui-même :
+    * en matière de lutte contre la corruption ?
+    * de *corporate governance* en général ?
+    * <mark>&nbsp;latest commit:&nbsp;</mark> le fait est que le [contrat d'adminstration](http://economie.fgov.be/fr/modules/publications/general/le_contrat_d_administration.jsp) signé en janvier 2016 ne va pas très loin en la matière, alors qu'il est censé servir de base à l'évaluation ultime des *managers*...
 
 ## Comités de base (CCB/BOC)
 
