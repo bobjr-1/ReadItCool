@@ -6,7 +6,7 @@
 
 ![](Banner.png "Source : site officiel (http://www.londonchessclassic.com/)")
 
-* [**Round 1**](https://www.evernote.com/shard/s573/sh/d8aef308-352b-4ccb-975f-4089377aa7f9/71763f2df4e6918364406a0668b481ff)
+* [**Round 1**](https://www.evernote.com/shard/s573/sh/0ef45fce-713d-4298-9717-2df4ab56ef9d/1d415bab7fca5b507109715a2138c39d)
 * [**Round 2**](https://www.evernote.com/shard/s573/sh/d8aef308-352b-4ccb-975f-4089377aa7f9/71763f2df4e6918364406a0668b481ff)
 * [**Round 3**](https://www.evernote.com/shard/s573/sh/51ef589e-98e6-4ee5-a938-b90971d4a1ba/285d6f3ea952bb808fd9bf9b4ebb6148)
 * [**Round 4**](https://www.evernote.com/shard/s573/sh/3c32e8a3-56fd-4096-a4ec-998821b08486/118139f1a81920b415380f317ed6b90b)
