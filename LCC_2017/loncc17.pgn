@@ -1,0 +1,1604 @@
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.01"]
+[Round "1.1"]
+[White "Carlsen, Magnus"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2837"]
+[BlackElo "2799"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, 6...a6"]
+[WhiteFideId "1503014"]
+[BlackFideId "2020009"]
+[EventDate "2017.12.01"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Nf6 4. Bxc4 e6 5. Nf3 c5 6. O-O a6 7. Be2 Nbd7 8. Nc3
+b6 9. e4 cxd4 10. Nxd4 Bb7 11. Be3 Bc5 12. f3 O-O 13. Qe1 Rc8 14. Qf2 b5 15.
+Rac1 Qe7 16. a4 bxa4 17. Nxa4 Bd6 18. Nb3 Bc6 19. Nc3 Rb8 20. Na5 Ba8 21. Nc4
+Bc5 22. Rfd1 Rfc8 23. Na4 Bxe3 24. Qxe3 Qb4 25. Qa3 h6 26. Kf1 g5 27. Rc3 a5 28.
+Qxb4 axb4 29. Rcc1 Kf8 30. Na5 Ke7 31. Kf2 Rxc1 32. Rxc1 Ne8 33. Ke3 Nd6 34. Nc5
+Rc8 35. Nab3 f5 36. Nxd7 Rxc1 37. Nxc1 Kxd7 38. Nd3 fxe4 39. fxe4 Ke7 40. e5
+Nf5+ 41. Kf2 Nd4 42. Bd1 b3 43. Nb4 Bd5 44. g3 Bc4 45. Ke3 Nf5+ 46. Ke4 Kd7 47.
+g4 Ne7 48. Kd4 Bf1 49. Bxb3 Be2 50. h3 Bf1 51. Nd3 Nc6+ 52. Kc5 Bxd3 53. Ba4 Be4
+54. Kb6 Bd5 1/2-1/2
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.01"]
+[Round "1.2"]
+[White "Nepomniachtchi, Ian"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2729"]
+[BlackElo "2805"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "4168119"]
+[BlackFideId "13300474"]
+[EventDate "2017.12.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a3 O-O
+9. Nc3 Bg4 10. Be3 Nd4 11. Bxd4 exd4 12. Nd5 Nxd5 13. Bxd5 Rc8 14. Bc6 Bf6 15.
+a4 Bd7 16. Bxd7 Qxd7 17. Qd2 Rfe8 18. Rfe1 h6 19. axb5 axb5 20. Ra6 c5 21. h3 c4
+22. Qb4 Qb7 23. Rea1 cxd3 24. cxd3 d5 25. Ra7 Qc6 26. R7a6 Qb7 27. Ra7 Qc6 28.
+R7a6 1/2-1/2
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.01"]
+[Round "1.3"]
+[White "So, Wesley"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2788"]
+[BlackElo "2789"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[WhiteFideId "5202213"]
+[BlackFideId "623539"]
+[EventDate "2017.12.01"]
+
+1. Nf3 c5 2. b3 b6 3. Bb2 Bb7 4. c4 Nf6 5. g3 e6 6. Bg2 Be7 7. Nc3 O-O 8. d4 d5
+9. cxd5 Nxd5 10. dxc5 Nxc3 11. Bxc3 Qxd1+ 12. Rxd1 Bxc5 13. O-O Rc8 14. Bb2 a5
+15. a3 Bf8 16. Rc1 Nd7 17. Nd2 Bxg2 18. Kxg2 b5 19. Rfd1 Nc5 20. Bd4 f6 21. Bxc5
+Rxc5 22. Rxc5 Bxc5 23. Nb1 Be7 24. Rc1 Rd8 25. Kf1 Kf7 26. Ke1 Ke8 27. Rc6 Rd6
+28. Rc8+ Rd8 29. Rc6 Rd6 30. Rc8+ Rd8 31. Rc6 1/2-1/2
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.01"]
+[Round "1.4"]
+[White "Nakamura, Hikaru"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2781"]
+[BlackElo "2782"]
+[ECO "A05"]
+[Opening "Reti opening"]
+[WhiteFideId "2016192"]
+[BlackFideId "5000017"]
+[EventDate "2017.12.01"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 c5 4. O-O g6 5. d4 cxd4 6. Nxd4 Bg7 7. Nb3 Nc6 8. Nc3
+e6 9. e4 d4 10. Na4 O-O 11. c3 dxc3 12. Nxc3 e5 13. Be3 Bg4 14. f3 Be6 15. Nc5
+Qe7 16. Nxe6 Qxe6 17. Qd2 Rfd8 18. Qf2 Bf8 19. h3 Bb4 20. Rac1 Rd3 21. Rfd1 Rad8
+22. Rxd3 Rxd3 23. Bf1 Rd8 24. a3 Be7 25. g4 Kg7 26. Kh2 h6 27. h4 Nd4 28. g5
+hxg5 29. hxg5 Nh7 30. Bh3 Qb3 31. f4 Nc6 32. Nd5 exf4 33. Bxf4 Bxg5 34. Bxg5
+Nxg5 35. Qf6+ Kh6 36. Bg2 Nh7 37. Qxf7 Rf8 38. Qc7 Qxb2 39. Rh1 Qf2 40. Kh3 Rf7
+41. Qg3 Qb2 42. Ne3 Nf6 43. Bf3 Kh7 44. Nf5 1/2-1/2
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.01"]
+[Round "1.5"]
+[White "Adams, Michael"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2715"]
+[BlackElo "2760"]
+[ECO "A13"]
+[Opening "English"]
+[Variation "Neo-Catalan accepted"]
+[WhiteFideId "400041"]
+[BlackFideId "14109603"]
+[EventDate "2017.12.01"]
+
+1. c4 Nf6 2. g3 e6 3. Bg2 d5 4. Nf3 dxc4 5. Qa4+ Nbd7 6. Qxc4 a6 7. Qc2 c5 8.
+Nc3 Qc7 9. d4 b6 10. Bf4 Bd6 11. Bxd6 Qxd6 12. O-O Bb7 13. Rfd1 O-O 14. e4 cxd4
+15. Nxd4 Qc7 16. Rac1 Rac8 17. Qd2 Qb8 18. Qe2 b5 19. a3 g6 20. Qe3 Rfd8 21. h3
+Ba8 22. Nde2 Kg7 23. b3 h5 24. Rd2 Qb6 25. Qxb6 Nxb6 26. Rxd8 Rxd8 27. e5 Nfd7
+28. Bxa8 Rxa8 29. f4 Nc5 30. Nd4 Rd8 1/2-1/2
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.03"]
+[Round "2.1"]
+[White "Karjakin, Sergey"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2760"]
+[BlackElo "2837"]
+[PlyCount "59"]
+[EventDate "2017.12.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 a6 7. a4 Ba7 8. Re1 h6
+9. Nbd2 g5 $5 10. b4 (10. Nf1 g4 11. Nh4 (11. N3d2 h5 12. Nb3 g3 $5 {
+Oparin-Matlakov, Russian Higher League 2017}) 11... Nxe4 12. dxe4 Qxh4 13. Be3
+{was one of the games Anand-Wei Yi, León 2017.}) 10... Nh5 11. Nb3 g4 12. b5
+gxf3 ({A big alternative was} 12... axb5 13. axb5 Bxf2+ 14. Kxf2 Rxa1 15. Nxa1
+gxf3 {when the computer comes up with} 16. g3) 13. Qxf3 Qf6 14. Qxf6 Nxf6 15.
+bxc6 bxc6 16. d4 Be6 17. Bxe6 fxe6 18. Be3 exd4 19. Bxd4 e5 20. Bxa7 Rxa7 21.
+Na5 Kd7 22. Rab1 Raa8 23. f3 Rab8 24. Kf2 h5 25. h4 Rhf8 26. Ke3 Rg8 27. Kf2
+Rgf8 28. Ke3 Rg8 29. Kf2 Rgf8 30. Ke3 1/2-1/2
+
+[Event "London Chess Classic"]
+[Site "?"]
+[Date "2017.12.03"]
+[Round "2.2"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[ECO "B78"]
+[WhiteElo "2789"]
+[BlackElo "2781"]
+[Annotator "Bojkov, Dejan"]
+[PlyCount "93"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 {It is a nice coincidence
+that the two players who revived the Dragon back in 1995 are in London. One is
+still playing and the other is a guest of honor. You guessed it right, they
+are Vishy Anand and Garry Kasparov.The latter used the Dragon as a secret
+weapon to turn the match into his favor. And Nakamura, who has trained with
+Kasparov in the past, knows a thing or two about it...} 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 Bd7 10. h4 h5 11. Bb3 Rc8 12. O-O-O Ne5 13. Bg5 Rc5 14. Kb1 Re8
+15. g4 ({Speaking about Kasparov's influence, here is another game of a player
+who was working with him:} 15. Bh6 a5 16. a4 Qb6 17. g4 Rxc3 18. bxc3 Nxf3 19.
+Nxf3 Nxe4 20. Qd3 Nxc3+ 21. Kc1 Bxh6+ 22. Ng5 Bg7 {actually these two are also
+in London, Karjakin,S (2771)-Carlsen,M (2881) Dubai 2014}) 15... hxg4 16. f4
+Nc4 17. Qd3 Na5 {All theory and now Vachier-Lagrave uncorks a novelty:} 18.
+Bxf6 $146 ({The only predecessor saw White quickly messing things up:} 18. h5
+Nxh5 19. f5 Nxb3 20. Nxb3 Rxc3 21. bxc3 Qc7 {and getting into a worse position,
+Misiano,F (2265)-Cacciola,A (2118) Lugano 2015}) 18... exf6 ({The point behind
+White's trade is revealed in the line:} 18... Bxf6 19. e5 dxe5 $4 ({Better is} 
+19... Nxb3 20. Nxb3 Bf5 21. Qd4 Rxc3 22. Qxc3 Bg7 23. Nd4 {although White has
+the advantage here as well.}) 20. Qxg6+ Kh8 21. Bxf7 {and mate is inevitable.})
+19. Bd5 {Vachier-Lagrave keeps the strong bishop alive.} ({The alternative} 19.
+f5 Nxb3 20. axb3 {also deserves attention.}) 19... Nc6 20. Nxc6 {Now the speed
+of the game accelerates to the maximum.} ({Probably critical is} 20. Ndb5 $5)
+20... bxc6 ({Instead} 20... Bxc6 21. f5 Bxd5 22. Nxd5 {is not convincing at
+all. The dark-squared bishop is locked in prison and White can attack
+comfortably.}) 21. Bxf7+ ({No time to retreat.} 21. Bb3 Bf8) 21... Kxf7 22.
+Qxd6 Rxc3 $1 {Liquidates into a rook endgame.} ({Also interesting was} 22...
+Rh5 23. Qxd7+ Qxd7 24. Rxd7+ Kf8) 23. Qxd7+ Qxd7 24. Rxd7+ Ke6 ({But not} 24...
+Re7 25. Rxe7+ Kxe7 26. bxc3 {when Black does not have enough for the exchange.}
+) 25. Rxg7 Rf3 {Funnily, this rook lived to tell its story. And snatch a few
+more pawns.} 26. Rxg6 Rxf4 27. Rg1 Rxe4 28. R6xg4 Rxg4 29. Rxg4 {This is it.
+The ultimate result of the sharp Dragon. A sharp rook endgame.} f5 {Betting on
+the passer. It is always a huge trump in these endgames.} ({Nakamura could
+show activity with} 29... Kf5 30. Rg1 Rh8 31. Rh1 Kg4 {as well.}) 30. Ra4 Rg8
+31. b3 Rg4 32. Rxa7 f4 $1 {The passer will cost White the rook at the end.
+This is why Black coordinates the efforts of his pieces to run it as smooth as
+possible.} (32... Rxh4 {might not be losing but is not the right way.}) 33. Kc1
+f3 34. Kd2 Rxh4 ({The rook could have cut the white king as well:} 34... Re4 {
+After a possible} 35. Ra4 Re2+ 36. Kd1 Kf5 37. Ra7 Kg4 {it is not even clear
+who is playing for a win. Therefore, the logic is that the point should be
+split equally... Say} 38. h5 ({Worse is} 38. Rf7 Kg3) 38... Kxh5 39. Rf7 Kg4
+40. a4 Re5 41. b4 Kg3 42. Kd2 Kg2 43. a5 f2 44. a6 f1=Q 45. Rxf1 Kxf1 46. c4
+Re7 47. b5 cxb5 48. cxb5 Re2+ 49. Kc3 Ra2 50. Kb4 Ke2 51. Kc5 Kd3 52. b6 Ra5+
+$1 53. Kc6 Rxa6 54. Kc7) 35. Ra8 Rh2+ 36. Kd3 ({Or} 36. Ke3 Rxc2 37. Kxf3 c5
+38. Ke4 Rd2 {with the same result as in the game.}) 36... Kf5 37. a4 {MVL
+tries to advance the pawns as far as possible before sacrificing the rook.} Kg4
+38. a5 Rh1 39. Rg8+ ({If the king comes to stop the pawn with} 39. Ke3 Re1+ 40.
+Kf2 Re2+ 41. Kf1 Rxc2 {then it will have to soon abandon the windy position to
+avoid the perpetual:} 42. a6 Rc1+ 43. Kf2 Rc2+ 44. Ke3 Re2+ 45. Kd4 Rd2+ 46.
+Kc5 Rd5+ 47. Kb6 ({White has to be careful:} 47. Kxc6 $2 f2 48. Rf8 Rf5 49.
+Rxf5 Kxf5 50. a7 f1=Q 51. a8=Q Qf3+) 47... f2 48. Rf8 Rf5 49. Rxf5 Kxf5 50. a7
+f1=Q 51. a8=Q {and a draw in the queen endgame.}) 39... Kf4 40. Rf8+ Kg3 41.
+Rg8+ Kf4 42. Rf8+ Kg3 43. b4 {The last try.} f2 44. Kd4 f1=Q 45. Rxf1 Rxf1 46.
+Kc5 Rc1 47. Kxc6 {The draw was agreed because of the line:} (47. Kxc6 Rxc2+ 48.
+Kb6 Kf3 49. a6 Ke4 50. b5 Kd5 51. a7 Ra2 52. Kb7 Kc5 53. b6 Ra1 54. a8=Q Rxa8
+55. Kxa8 Kxb6) 1/2-1/2
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.03"]
+[Round "2.3"]
+[White "Caruana, Fabiano"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2799"]
+[BlackElo "2805"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "2020009"]
+[BlackFideId "13300474"]
+[EventDate "2017.12.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a3 O-O
+9. Nc3 Bg4 10. Be3 Nd4 11. Bxd4 exd4 12. Nd5 Nxd5 13. Bxd5 Rc8 14. Bc6 Bf6 15.
+a4 Rb8 16. h3 Be6 17. axb5 axb5 18. Qd2 Rb6 19. Bd5 Bxd5 20. exd5 b4 21. b3 Rb5
+22. Ra4 Qb8 23. Re1 Qb6 24. Re4 Qc5 25. g4 g6 26. Kg2 Bg7 27. Re7 Bf6 28. Re4
+Bg7 29. Re7 Bf6 30. Re2 Bg7 31. Re7 1/2-1/2
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.03"]
+[Round "2.4"]
+[White "So, Wesley"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[WhiteElo "2788"]
+[BlackElo "2729"]
+[PlyCount "53"]
+[EventDate "2017.12.01"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d6 4. e4 e5 5. Ne2 c5 $5 {"I was trying to disrupt
+his preparation somehow." - Nepomniachtchi.} 6. d5 Nbd7 $146 (6... h5 7. h4 Bh6
+8. Bxh6 Rxh6 9. Qd2 Rh8 10. Nbc3 Na6 11. Nc1 Nc7 {Grischuk,A (2779)
+-Nepomniachtchi,I (2717) Khanty-Mansiysk 2013}) 7. Nbc3 a6 8. a4 Nh5 9. g3 Bg7
+10. h4 f5 11. exf5 gxf5 12. g4 fxg4 13. fxg4 Nf4 14. g5 O-O 15. Ne4 Nb6 16.
+N2g3 Bd7 17. Rg1 Kh8 18. Bd2 Nc8 19. Nh5 {So wasn't happy about this move. He
+said he should have kept the blockade.} Bf5 20. Neg3 Qd7 21. Nxg7 Qxg7 (21...
+Bg4 $5 {Nepomniachtchi}) 22. Nxf5 Rxf5 23. Qb3 Na7 24. Qb6 Nc8 25. Qb3 Na7 26.
+Qb6 Nc8 27. Qb3 1/2-1/2
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.03"]
+[Round "2.5"]
+[White "Anand, Viswanathan"]
+[Black "Adams, Michael"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2782"]
+[BlackElo "2715"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "5000017"]
+[BlackFideId "400041"]
+[EventDate "2017.12.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O d5 7. exd5 Qxd5 8. Bc4
+Qd8 9. b4 Be7 10. Nbd2 Bf5 11. Qc2 a6 12. a4 Qd7 13. Bb2 Bd6 14. Ne4 Nxe4 15.
+dxe4 Be6 16. Be2 f6 17. a5 Rfd8 18. Bc1 Qf7 19. Be3 Bf8 20. Rfb1 Bc4 21. Bxc4
+Qxc4 22. Nd2 Qe6 23. Kf1 Na7 24. Bxa7 Rxa7 25. Qa2 Kf7 26. Ke2 Raa8 27. Qxe6+
+Kxe6 28. Nc4 c6 29. Nb6 Rab8 30. Rd1 c5 31. Rxd8 Rxd8 32. Nd5 cxb4 33. cxb4 Rc8
+34. Kd3 f5 35. f3 Bd6 36. Rb1 h5 37. Ne3 g6 38. b5 fxe4+ 39. fxe4 Bc7 40. Nd5
+Bxa5 41. Ra1 Bd8 42. bxa6 bxa6 43. Rxa6+ Kf7 44. Ra7+ Ke8 45. Rh7 Rc6 46. g3 Rc1
+47. Rh8+ Kd7 48. Rh7+ 1/2-1/2
+
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.04"]
+[Round "3.1"]
+[White "Carlsen, Magnus"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2837"]
+[BlackElo "2782"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[WhiteFideId "1503014"]
+[BlackFideId "5000017"]
+[EventDate "2017.12.01"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 c5 6. O-O Nc6 7. Na3 cxd4 8. Nxc4
+Bc5 9. b3 Qe7 10. Nfe5 Nxe5 11. Nxe5 Nd7 12. Bf4 O-O 13. Rc1 Rd8 14. Nd3 Bb6 15.
+Bc7 Re8 16. Qc2 e5 17. Rfd1 Nf8 18. a4 Bg4 19. Bxb6 axb6 20. h3 Rac8 21. Qd2 Be6
+22. Nxe5 Rxc1 23. Rxc1 Bxb3 24. Nf3 Bxa4 25. Nxd4 Ne6 26. Nf5 Qf6 27. Ne3 Qd4
+28. Qa2 Nc5 29. Rc4 Bb3 30. Rxd4 Bxa2 31. Rb4 Re6 1/2-1/2
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.04"]
+[Round "3.2"]
+[White "Nakamura, Hikaru"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2781"]
+[BlackElo "2788"]
+[ECO "A33"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "5202213"]
+[EventDate "2017.12.01"]
+
+1. c4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. e4 Bb4 7. Nxc6 bxc6 8.
+Bd3 e5 9. O-O O-O 10. Be3 d5 11. exd5 Bxc3 12. bxc3 cxd5 13. Bg5 dxc4 14. Bxc4
+Qc7 15. Bxf6 Qxc4 16. Bxe5 Bf5 17. Bd4 Rfe8 18. Qc1 h6 19. Qf4 Bg6 20. Qg3 Kh7
+21. h4 f6 22. Rfd1 Re7 23. Rd2 Rae8 24. f3 Re2 25. Rxe2 Rxe2 26. a3 Qb3 27. Re1
+Rxe1+ 28. Qxe1 Qxa3 29. c4 Qd3 30. Bxa7 Qxc4 31. Bf2 1/2-1/2
+
+[Event "London Chess Classic"]
+[Site "?"]
+[Date "2017.12.04"]
+[Round "3.3"]
+[White "Aronian, Levon"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[WhiteElo "2805"]
+[BlackElo "2760"]
+[Annotator "Bojkov, Dejan"]
+[PlyCount "65"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ {A nasty little check. It invites White to
+choose between the Romanishin Nimzo-Indian after 4.Nc3 or put something on
+d2, which interferes with his future plans.} 4. Bd2 Be7 5. Bg2 d5 6. Nf3 O-O 7.
+O-O Nbd7 8. Na3 {Aronian follows... himself.} ({One of the benefits behind the
+bishop position on c3 is that it can be easily attacked. This is what happened
+in a recent game by Carlsen:} 8. Bc3 b6 9. cxd5 Nxd5 10. e4 Nxc3 11. Nxc3 Bb7 {
+and Black was doing well, Ding,L (2774)-Carlsen,M (2837) Saint Louis 2017}) ({
+Another advantageous point behind the position of the bishop on d2 is seen in
+case of the normal development with} 8. Nc3 {Black simply captures the pawn}
+dxc4 {as there is no Nf3-d2xc4 maneuver. Nakamura risked though against Adams
+at the World Cup in Baku 2015 and won the game, but it is evident that after}
+9. e4 c5 10. Bf4 Nb6 11. a4 cxd4 12. Nxd4 Bc5 $1 {as Adams played, things
+were going into Black's favor.}) ({Therefore the main move is} 8. Qc2) 8... c6
+9. Rc1 Ne4 10. Be3 f5 $146 {Technically speaking a novelty, but the Stonewall
+formation is very common for this line.} ({In Wijk aan Zee earlier this year the
+Armenian GM won a spectacular positional game after} 10... Bxa3 11. bxa3 Nd6
+12. c5 Nc4 13. Rxc4 dxc4 14. Qc2 {Aronian,L (2780)-Giri,A (2773) Wijk aan Zee
+2017}) 11. Rc2 {Now both sides start to regroup and prepare or prevent the
+play of the opponent on "their" flank.} a5 {Stops the queenside expansion in
+advance.} (11... Bf6 12. b4) 12. Qc1 {The queen takes under control the vital
+f4 square and is ready to work along the c-file.} Bf6 13. Rd1 g5 14. Nb1 {
+The knight appeared to do nothing on a3; it has to be repositioned.} Rf7 15.
+Nc3 Rg7 {Karjakin is ready for some kingside action.} 16. Ne1 {An inaccuracy.}
+({The preliminary} 16. Nxe4 $1 {was better and only after} fxe4 (16... dxe4 {
+allows} 17. Ne5 $1) 17. Ne1 {followed by f2-f3 to undermine the center. White
+would be slightly better in that case.}) 16... Nd6 $1 {A very annoying knight!}
+17. b3 $1 {Aronian sacrifices a pawn.} ({After} 17. c5 Nc4 {the important
+dark-squared bishop will be traded for the knight. True, there is the
+interesting idea} 18. Bxg5 Bxg5 19. f4 Bf6 20. b3 {trapping it, but one can
+hardly believe that White would be any better in this case.}) 17... dxc4 18.
+Na4 cxb3 19. axb3 Nb5 ({Karjakin has to be careful in order not to allow too
+many white pieces freedom. For example} 19... Nf8 20. Nf3 h6 21. Ne5) 20. Nd3 {
+Another pawn is offered!} Qe8 {This time rejected.} ({After} 20... Nxd4 21.
+Bxd4 Bxd4 {The pin along the d-file gives time to the white pieces to occupy
+dominating positions:} 22. e3 (22. Rcd2 $5) 22... Bf6 23. Ndc5 Qe8 24. Rcd2
+Nxc5 25. Nxc5 {with nice compensation for the pawns.} ({Or} 25. Qxc5)) 21. Ne5
+{The knight did it to e5 outpost anyway.} f4 $1 {But Karjakin shows that he
+knows other ways to defend too. Active ones.} ({Worse was} 21... Nxe5 22. dxe5
+Bxe5 23. Bxg5) ({And simply bad} 21... Bxe5 22. dxe5 Nxe5 23. Rcd2 Nd7 24. Bxg5
+$1 Rxg5 25. Rxd7 {and White wins.}) 22. gxf4 gxf4 23. Bxf4 Nxd4 {The main
+point behind Black's sacrifice. Although the open g-file for his heavy pieces
+would not hurt neither.} 24. Rxd4 ({Not} 24. Nxd7 $2 Bxd7) 24... Nxe5 25. Rd1 {
+The retreat is the best decision at the moment. The rook is too vulnerable.} (
+25. Rcd2 $2 {does not work as the back rank is defended and Black can go for
+example} Ng6) ({More interesting is} 25. Nb6 {when Black has the interesting
+tactical blow} Nf3+ ({Probably even better is the retreat} 25... Nd7 26. Rxd7 (
+26. Nxa8 $2 {leads to an edge for Black after} Bxd4) 26... Bxd7 27. Nxa8 Qxa8 28.
+Rd2 Qe8 {when Black keeps the extra pawn.}) 26. exf3 Bxd4 27. Nxa8 e5 $1 {
+Attacking the bishop and preparing Bc8-h3. After} 28. Re2 Bh3 29. Bg3 Bxg2 30.
+Kxg2 Qxa8 {The position is roughly balanced.}) 25... Qg6 26. Bg3 h5 {Thanks to
+his excellent defense Karjakin developed almost all of his pieces and keeps
+white bishops busy on the kingside. Still, the open d-file and the activity
+provide Aronian enough for the pawn.} 27. Nb6 Rb8 28. Rcd2 Nf7 {Another
+excellent defensive move.} ({The careless} 28... h4 {would give Aronian what
+he wants and} 29. Rd8+ Bxd8 30. Rxd8+ Kh7 31. Nxc8 hxg3 32. hxg3 Qf6 33. Be4+
+Ng6 34. Qd1 {with the threat e2-e3 followed by Qd1-h5 would provide White
+excellent attacking possibilities.}) 29. Qc5 {Aronian is still optimistic
+about his position.He plans to trap the black rook on b8.} ({The endgame after
+} 29. Qc2 Qxc2 30. Rxc2 e5 31. Nxc8 (31. Ra2 $2 h4) (31. h4 Bf5 32. Ra2 Be7)
+31... Rxc8 32. h4 {was the alternative when the bishop pair is once again
+providing enough compensation for the pawn.}) ({Even better was} 29. Qb1 Qxb1
+30. Rxb1 e5 31. h4 Bf5 {due to the nuance} 32. Ra1 Be7 33. Nc4 {at least
+according to the computer.}) 29... e5 ({Operation trapping would be
+accomplished after} 29... h4 30. Qxa5 hxg3 31. hxg3 {with the idea Qa5-a7 and
+if} Be5 $2 32. Rd8+) 30. Qc4 ({Here} 30. Qxa5 {does not work because of} Bf5
+31. Qa7 Rf8 {and Black is ready to start decisive counter-attack.}) 30... Kh8 {
+Breaks the pin on the a2-g8 diagonal.} ({Otherwise the bishop on c8 may suffer-
+} 30... Bf5 31. e4 Bg4 32. f3 Bc8 33. Nxc8 ({But not} 33. Rd8+ $2 Bxd8 34.
+Rxd8+ Kh7 35. Rxc8 Rxc8 36. Nxc8 h4 {when Black takes over.}) 33... Rxc8 34.
+Bh3 Rf8 35. Kh1 $1 {and White dominates on the light squares.}) ({Also} 30...
+h4 {loses to} 31. Rd8+ $1 Bxd8 32. Rxd8+ Kh7 33. Qxh4+ Nh6 34. Nxc8) {Now
+h5-h4 is a threat.} 31. h4 Bf5 32. Nd7 Rbg8 33. Kh1 $2 {A mistake in
+time-trouble, which was accompanied with a draw offer. And Karjakin accepted
+it!} ({White should have taken the bishop when he could} 33. Nxf6 Qxf6 34. Qc5
+{still keeping the compensation.}) (33. Kh1 {Black on his turn did not realize
+that the situation has changed and that after} Be7 $1 {He has the initiative.
+The threat is to kick the queen away from the fourth rank and grab the h4 pawn.
+Or even the b3 pawn in some lines. Black has clear edge as the lines prove it:}
+34. e3 ({Or} 34. Qc3 Bxh4 35. Nxe5 Nxe5 36. Rd6 Qg5 37. Qxe5 Bxg3 38. fxg3 Bc2)
+({If} 34. e4 Bxd7 35. Rxd7 Bxh4 $1) 34... Be6 35. Qf1 (35. Qc3 Bb4 (35... Bxh4)
+) 35... Bxb3 {All in all, after a great defense Karjakin could had taken more
+than just half a point!}) 1/2-1/2
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.04"]
+[Round "3.4"]
+[White "Nepomniachtchi, Ian"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2729"]
+[BlackElo "2799"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack, Pachman system"]
+[WhiteFideId "4168119"]
+[BlackFideId "2020009"]
+[EventDate "2017.12.01"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. O-O e5 5. d3 Ne7 6. e4 O-O 7. exd5 Nxd5 8. Re1
+Nc6 9. Nc3 Nde7 10. Rb1 a5 11. a3 Re8 12. b4 axb4 13. axb4 Nf5 14. b5 Ncd4 15.
+Nd2 Ra7 16. Nde4 h6 17. Nd5 Ra5 18. c4 c6 19. bxc6 bxc6 20. Nb6 Qc7 21. Bd2 Ra2
+22. Nc3 Ra6 23. Nxc8 Rxc8 24. Ne2 Nxe2+ 25. Rxe2 Nd4 26. Re1 Rd8 27. Bc3 Ra2 28.
+Ra1 Rxa1 29. Bxa1 Qb6 30. Qa4 Nb3 31. Be4 1/2-1/2
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.04"]
+[Round "3.5"]
+[White "Adams, Michael"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2715"]
+[BlackElo "2789"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[WhiteFideId "400041"]
+[BlackFideId "623539"]
+[EventDate "2017.12.01"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. a4 Nf6 5. Nc3 a6 6. Bc4 Qa5 7. Ra3 e6 8. O-O
+Be7 9. Re1 O-O 10. d3 Qc7 11. a5 b5 12. axb6 Nxb6 13. e5 dxe5 14. Nxe5 Bd6 15.
+Bf4 Nxc4 16. dxc4 Bb7 17. Bg3 Rad8 18. Qe2 Rfe8 19. Raa1 Ne4 20. Nxe4 Bxe5 21.
+Qh5 Bxg3 22. hxg3 Bxe4 23. Rxe4 Qb7 24. Ree1 Qxb2 25. Qxc5 Rc8 26. Qa3 Qxa3 27.
+Rxa3 Rxc4 28. Rxa6 Rxc2 29. g4 Rb8 30. Rea1 Rcc8 31. Ra7 g6 32. Kh2 Rc4 33. R1a4
+Rxa4 34. Rxa4 Rb5 35. Kg3 Kg7 36. Ra7 h5 37. gxh5 Rxh5 38. Kf3 Rf5+ 39. Ke3 Rb5
+40. g4 Rb3+ 41. Kf4 Rb4+ 42. Kg3 g5 43. f3 Kg6 44. Rc7 Rb6 45. Ra7 Rd6 46. Rc7
+f5 47. gxf5+ exf5 48. Rc2 Rd3 49. Kf2 Ra3 50. Rb2 Kh5 51. Kg2 Kh4 52. Rb4+ f4
+53. Rb2 g4 54. fxg4 Kxg4 55. Kf2 Rh3 56. Kg2 f3+ 57. Kg1 Kg3 58. Rg2+ fxg2 1/2-1/2
+
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.05"]
+[Round "4"]
+[White "Vachier Lagrave,M"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2789"]
+[BlackElo "2837"]
+[EventDate "2017.11.29"]
+[ECO "C53"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O O-O 7. Re1 Ne7 8.
+d4 Bb6 9. a4 c6 10. dxe5 Ng4 11. Rf1 dxe5 12. Qxd8 Bxd8 13. h3 Nf6 14. Nxe5
+Nxe4 15. Re1 Nd6 16. Bb3 Re8 17. Nf3 Nd5 18. Rd1 Ne4 19. Bxd5 cxd5 20. Rxd5
+Be6 21. Re5 Nf6 22. Re1 Bc7 23. Na3 a6 24. Nc2 Nd5 25. c4 Nf4 26. Bxf4 Bxf4
+27. b3 Rad8 28. Rad1 Kf8 29. Nb4 Bc7 30. Nd3 Bf5 31. Rxe8+ Kxe8 32. Re1+
+Kf8 33. Nc5 Bc8 34. Kf1 Ba5 35. Re3 Rd1+ 36. Ke2 Rb1 37. Ne4 Rb2+ 38. Kf1
+Bf5 39. Nd6 Rb1+ 40. Ke2 Rb2+ 41. Kf1 Rb1+ 42. Ke2 Rb2+ 1/2-1/2
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.05"]
+[Round "4"]
+[White "Anand,V"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2782"]
+[BlackElo "2805"]
+[EventDate "2017.11.29"]
+[ECO "C88"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+h3 Bb7 9. d3 d5 10. exd5 Nxd5 11. Nbd2 Qd7 12. a4 Rae8 13. axb5 axb5 14.
+Nxe5 Nxe5 15. Rxe5 Nf6 16. Nf1 Bd6 17. Rxe8 Rxe8 18. Be3 Qf5 19. Qe2 Qg6
+20. f3 Bd5 21. c4 Be6 22. c5 Bxb3 23. cxd6 cxd6 24. Qd2 h6 25. Bf2 Rc8 26.
+Ne3 Nd5 27. Nxd5 Bxd5 28. Kh2 Qg5 29. Be3 Qf5 30. Rc1 Rxc1 31. Qxc1 1/2-1/2
+
+
+[Event "London Chess Classic"]
+[Site "?"]
+[Date "2017.12.05"]
+[Round "4.3"]
+[White "Karjakin, Sergey"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[ECO "B48"]
+[WhiteElo "2760"]
+[BlackElo "2799"]
+[Annotator "Bojkov, Dejan"]
+[PlyCount "84"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 {Some years ago it was considered suicidal to try the Sicilian
+against Karjakin. But Caruana is not afraid as he had done his homework
+carefully [for two days in a row as he was planning to play this line against Nepomniachtchi! - PD].} 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qf3 {
+A fashionable reply against the Taimanov. But later Karjakin regretted on his
+opening choice and said that "any other line would have been the better choice.
+"} ({The main lines remain} 7. Bd3 b5 8. O-O Bb7 9. Re1 Nf6 10. Nxc6 Qxc6 11.
+Bd4 {as in Carlsen,M (2832)-Grischuk,A (2750) Chess.com Speed Chess Championship 2017}) ({Or} 7. Qd2
+{as Caruana played himself in the following online game in the Chess.com PRO Chess League:} Nf6
+8. O-O-O Be7 9. f3 b5 10. g4 Nxd4 11. Bxd4 Bb7 12. Kb1 {Caruana,F (2817)
+-Pichot,A (2556) chess.com INT 2017}) 7... Ne5 8. Qg3 b5 9. O-O-O Nf6 10. f4
+Neg4 {The knights seem ridiculously placed but somehow manage to limit the
+opponent's bishops and queen.} 11. Bg1 h5 12. e5 ({Nobody has ever tried} 12.
+h3 {although it might be more interesting that it seems at a glance:} b4 13.
+Nd5 $5) 12... b4 {Everything is coming in time. If Black retreats, he will get
+destroyed.} 13. Na4 Nd5 14. Nb3 Bb7 15. Nac5 Bc6 $146 ({A predecessor
+saw} 15... Rc8 16. Bd3 a5 17. Kb1 Bc6 18. Na6 Qd8 19. Nd4 {with some edge for
+White, Nepomniachtchi,I (2714)-Wang,Y (2720) Beijing 2014}) 16. Ne4 {"I was on
+my own here" (Caruana)} (16. h3 {simply pushes the knight to a better position.
+} Nh6) (16. Nxa6 $6 {is dubious due to} Qc8 17. Nbc5 d6 $1 18. exd6 Bxd6 {
+when as awkward as it may seem there is no way to stop the obvious threat of
+Bd6xf4.}) ({Ditto for} 16. Bxa6 $2 d6 $1 17. exd6 Bxd6) ({In case of} 16. Kb1 {
+Black will simply push the pawn} a5 {with a good game. But perhaps this was
+White's best option.} (16... Nh6 $5 {also deserves serious consideration.}))
+16... f5 $1 {"It seems as White wasted so much time that I should be doing
+great" (Caruana)} 17. h3 {This is dubious.} ({White loses a pawn after} 17.
+exf6 gxf6 18. h3 Qxf4+ 19. Qxf4 Nxf4 {But after} 20. Re1 f5 21. hxg4 Bxe4 22.
+gxf5 Bxf5 23. g3 {things are not that clear.}) 17... h4 {"I knew I was worse
+but I thought I can get some compensation. But I spoiled everything very
+quickly." (Karjakin)} (17... fxe4 18. hxg4) 18. Qe1 fxe4 19. hxg4 Nxf4 20. Rxh4
+Rxh4 21. Qxh4 Qxe5 22. Bd4 Ng6 {Another precise move.} (22... Qc7 {would give
+White a chance to take over the initiative with} 23. g3 Nd5 24. Qh5+ {and keep
+the enemy king in the center.}) 23. Qh3 ({Black would be definitely happy with
+the endgame after} 23. Qh5 Qxh5 24. gxh5 Nf4 25. g4 g6) 23... Qg5+ {The
+opening turned out to be huge success for Caruana. He is up a pawn, owes a
+solid center and as a compensation has way more time on the clock.} 24. Kb1 Bd5
+25. Bg1 (25. Be3 $5) 25... Be7 26. g3 Ne5 27. Be2 Nf3 28. Bxf3 exf3 {With the
+disappearance of the light-squared bishop Black's advantage became decisive.}
+29. Bd4 Kf7 {The king is well placed behind his pawns.} 30. Nc1 d6 31. Nd3 e5 {
+Deprives the white pieces from the good squares.} 32. Bf2 Be6 33. Nxb4 e4 34.
+Qh1 Rc8 {The same limitation policy. The knight is in danger.} (34... a5 35.
+Nc6) 35. Nxa6 Qa5 36. Qh5+ Qxh5 37. gxh5 Bg5 38. Re1 Bc4 39. Nb4 Re8 {No need
+to hurry, the pawns are unstopabble.} (39... e3 40. Bxe3 Re8 41. Bf2 Rxe1+ 42.
+Bxe1 Bd2 $1 {would be flashier.}) 40. Re3 Bxe3 41. Bxe3 Re5 42. g4 Rg5 0-1
+
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.05"]
+[Round "4"]
+[White "Nakamura,Hi"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2781"]
+[BlackElo "2729"]
+[EventDate "2017.11.29"]
+[ECO "B91"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 g6 7. Bg2 Bg7 8.
+O-O O-O 9. b3 Bd7 10. Bb2 Nc6 11. Nd5 Re8 12. c4 Nxd5 13. exd5 Nxd4 14.
+Bxd4 b5 15. Bxg7 Kxg7 16. Qd4+ Kg8 17. Rfc1 Qa5 18. h4 h5 19. c5 dxc5 20.
+Rxc5 Rac8 21. b4 Qb6 22. Rac1 Qd6 23. f4 Ra8 24. Rc7 Rac8 25. Rxc8 Rxc8 26.
+Rc5 Ra8 27. Qe5 Ra7 28. Rc3 f6 29. Qe3 Ra8 30. Qc5 Rc8 31. Qxd6 exd6 32.
+Rxc8+ Bxc8 1/2-1/2
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.05"]
+[Round "4"]
+[White "So,W"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteElo "2788"]
+[BlackElo "2715"]
+[EventDate "2017.11.29"]
+[ECO "A07"]
+
+1. Nf3 d5 2. g3 c5 3. c4 d4 4. b4 cxb4 5. a3 bxa3 6. Bg2 Nc6 7. Bxa3 e5 8.
+Bxf8 Kxf8 9. d3 g6 10. O-O Kg7 11. Nbd2 Nf6 12. Qb3 h6 13. Qb2 Re8 14. Ra3
+Re7 15. e3 dxe3 16. fxe3 Bg4 17. d4 Bxf3 18. Nxf3 exd4 19. exd4 Qd6 20. d5
+Ne5 21. Nxe5 Qxe5 22. Qxe5 Rxe5 23. d6 Rd8 24. Rxa7 Rxd6 25. Rxb7 Rd7 26.
+Rb6 Ng4 27. Bh3 h5 28. Bxg4 hxg4 29. Rb2 Rc5 30. Rc2 Rd4 31. Rf4 Rxf4
+1/2-1/2
+
+
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.06"]
+[Round "5.1"]
+[White "Caruana, Fabiano"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2799"]
+[BlackElo "2782"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "2020009"]
+[BlackFideId "5000017"]
+[EventDate "2017.12.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Nc3 O-O 6. Bxc6 dxc6 7. h3 Nd7 8.
+Be3 Bd6 9. Ne2 Re8 10. g4 Nc5 11. Ng3 Ne6 12. Nf5 c5 13. h4 a5 14. h5 Ra6 15.
+Qd2 Nd4 16. Rh3 Bf8 17. O-O-O Be6 18. Kb1 f6 19. c3 Nxf3 20. Rxf3 c4 21. Qc2
+cxd3 22. Rxd3 Qc8 23. g5 fxg5 24. Bxg5 Bf7 25. h6 gxh6 26. Bc1 Qe6 27. b3 a4 28.
+c4 axb3 29. axb3 Qc6 30. Rg3+ Kh8 31. Rd1 b5 32. c5 b4 33. Bb2 Bg6 34. Rd5 Qb5
+35. Rg1 c6 36. Rxe5 Rxe5 37. Bxe5+ Kg8 38. Bd4 Kf7 39. Nh4 1-0
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.06"]
+[Round "5.2"]
+[White "Aronian, Levon"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2805"]
+[BlackElo "2789"]
+[ECO "D70"]
+[Opening "Neo-Gruenfeld defence"]
+[WhiteFideId "13300474"]
+[BlackFideId "623539"]
+[EventDate "2017.12.01"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 O-O 8. Qd2
+e5 9. d5 c6 10. Rd1 cxd5 11. exd5 N8d7 12. Nh3 e4 13. fxe4 Ne5 14. Nf2 f5 15.
+Bc5 Rf7 16. Be2 f4 17. Bf3 Nbc4 18. Qe2 b6 19. Bd4 Ne3 20. Bxe3 fxe3 21. Qxe3
+Qf8 22. Be2 Bh6 23. Qd4 Bg7 24. Qe3 Bh6 25. Qd4 Bg7 1/2-1/2
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.06"]
+[Round "5.3"]
+[White "Carlsen, Magnus"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2837"]
+[BlackElo "2788"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "1503014"]
+[BlackFideId "5202213"]
+[EventDate "2017.12.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bg5 Nd4 6. Nxd4 Bxd4 7. c3 Bb6 8.
+Nd2 c6 9. Ba4 h6 10. Bh4 d6 11. Nc4 Bc7 12. Ne3 Bb6 13. Bb3 g5 14. Bg3 Bxe3 15.
+fxe3 Bg4 16. Qd2 Nh5 17. O-O O-O 18. Be1 Qe7 19. h3 Be6 20. Qe2 Bxb3 21. Qxh5
+Bc2 22. Qe2 Ba4 23. b3 Bb5 24. a4 Ba6 25. b4 b6 26. c4 Bb7 27. a5 f6 28. d4 Qh7
+29. c5 bxc5 30. bxc5 Qxe4 31. cxd6 exd4 32. Qc4+ Kg7 33. a6 Bc8 34. Qxd4 Qxd4
+35. exd4 Rb8 36. Bf2 Rf7 37. d5 cxd5 38. Rfc1 d4 39. Bxd4 Bf5 40. Rc7 Rd8 41.
+Bc5 Rdd7 42. Rxd7 Rxd7 43. Kf2 Be4 44. g4 f5 45. Ke3 Kf6 46. Ra5 Bc2 47. Rb5 Ke6
+48. Rb2 f4+ 49. Kd4 Bd1 50. Rb8 f3 51. Ke3 Kd5 52. Ba3 Be2 53. Rh8 Kc4 54. Rxh6
+Kb3 55. Bc5 Kc4 56. Bd4 Kd5 57. Rg6 Rxd6 58. Rxg5+ Ke6 59. Bxa7 Rxa6 60. Bc5 Ra2
+61. Kf4 f2 62. Re5+ Kf7 63. Rf5+ Kg8 64. Bxf2 Bf1 65. Kg3 Ra3+ 66. Rf3 Rxf3+ 67.
+Kxf3 Bxh3 68. Kf4 Bxg4 1/2-1/2
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.06"]
+[Round "5.4"]
+[White "Nepomniachtchi, Ian"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2729"]
+[BlackElo "2760"]
+[ECO "E35"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, 5.cd ed"]
+[WhiteFideId "4168119"]
+[BlackFideId "14109603"]
+[EventDate "2017.12.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Bg5 h6 7. Bh4 c5 8. e3
+cxd4 9. exd4 Nc6 10. Bb5 O-O 11. Ne2 Qb6 12. Bxc6 Qxc6 13. Bxf6 Qxf6 14. O-O
+Bxc3 15. Qxc3 Bg4 16. f3 Bd7 17. Qd2 Bb5 18. Rfe1 Bxe2 19. Rxe2 Rfe8 20. Rae1
+Rxe2 21. Rxe2 Rc8 22. b3 b6 23. h3 a5 24. Qe3 a4 25. bxa4 Rc4 26. Qe8+ Kh7 27.
+Qe5 Rxd4 28. Qxf6 gxf6 29. Rb2 Rxa4 30. Rxb6 Rxa2 1/2-1/2
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.06"]
+[Round "5.5"]
+[White "Adams, Michael"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2715"]
+[BlackElo "2781"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteFideId "400041"]
+[BlackFideId "2016192"]
+[EventDate "2017.12.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Bd4 Bxd4 13. Qxd4 Qb6 14. Na4
+Qc7 15. Nc5 Rd8 16. Bc4 Bf5 17. Bb3 Nb6 18. Qc3 h5 19. g3 Nd5 20. Qc4 e6 21.
+Rhe1 Qe7 22. Nd3 Nb6 23. Qc5 Rd6 24. Rd2 Nd7 25. Qc3 Bxd3 26. Rxd3 Rxd3 27. Qxd3
+Nc5 28. Qc3 Rd8 29. a3 Qd6 30. Bc4 Na4 31. Qe3 Nb6 32. Be2 Qe7 1/2-1/2
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.08"]
+[Round "6.1"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2789"]
+[BlackElo "2799"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Marshall variation"]
+[WhiteFideId "623539"]
+[BlackFideId "2020009"]
+[EventDate "2017.12.01"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4
+c6 9. Re1 Bf5 10. Qb3 Qd7 11. Nc3 Nxc3 12. Bxf5 Qxf5 13. Qxb7 Qd7 14. Qxd7 Nxd7
+15. c5 Bxh2+ 16. Nxh2 Ne4 17. f3 Ng3 18. Bf4 Nf5 19. Rad1 Rfe8 20. Rxe8+ Rxe8
+21. g4 Ne7 22. Rd3 Nf8 23. Rb3 Ne6 24. Be3 Ng6 25. Kf2 Ngf4 26. Rb7 Kf8 27. Nf1
+Re7 28. Rb8+ Re8 29. Rb7 Re7 30. Rb8+ Re8 31. Rxe8+ Kxe8 32. Bxf4 Nxf4 33. Ke3
+Ng2+ 34. Kf2 Nf4 35. Ke3 Ng2+ 36. Kf2 Nf4 1/2-1/2
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.08"]
+[Round "6.2"]
+[White "So, Wesley"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2788"]
+[BlackElo "2805"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[WhiteFideId "5202213"]
+[BlackFideId "13300474"]
+[EventDate "2017.12.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. d4 d6 10. dxe5 dxe5 11. Nbd2 Bc5 12. a5 Be6 13. Bxe6 fxe6 14. Qe2 Ng4 15.
+Rf1 Bxf2+ 16. Rxf2 Nd4 17. Qc4 Nxf2 18. Kxf2 Qh4+ 19. Kg1 Qg4 20. h3 Qg3 21. Qd3
+Rxf3 22. Nxf3 Rf8 23. Nxd4 Qe1+ 24. Kh2 Rf1 25. Qxf1 Qxf1 26. Nf3 c5 27. b3 Qd1
+28. Bb2 Qxc2 29. Bxe5 Qxb3 30. Rf1 h6 31. Rf2 c4 32. Rd2 c3 33. Rd8+ Kf7 34. Rc8
+Qb1 35. Rc7+ Ke8 36. Rc8+ Kf7 37. Rc7+ Ke8 38. Rc8+ 1/2-1/2
+
+[Event "London Chess Classic"]
+[Site "?"]
+[Date "2017.12.08"]
+[Round "6.3"]
+[White "Nakamura, Hikaru"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[WhiteElo "2781"]
+[BlackElo "2837"]
+[Annotator "Bojkov, Dejan"]
+[PlyCount "145"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 {The last time Nakamura played the Scotch was back
+in 2015.} exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8. h4 {A very
+fashionable move, in almost all the openings. Seriously speaking, this is "an
+invention from the creative Dutch GM John Van der Wiel, an expert on the white
+side of the Scotch" (John Emms).} Bb7 ({A recent top game saw} 8... a5 9. c4 Ba6
+10. Nd2 Nb4 11. Nf3 c5 12. b3 Bb7 13. Bb2 {Morozevich,A (2676)-Jakovenko,D 
+(2710) Sochi 2017}) 9. c4 Nb6 10. Rh3 $146 {This is what the h2-h4 move is all
+about, but surprisingly no one had tried it before.} ({An online predecessor saw
+} 10. Nc3 Qe6 11. Bd2 O-O-O 12. O-O-O {Francisco,R (2273)-Agrest,I (2273)
+chess.com INT 2017 Maybe Nakamura noticed that game. After all it was played
+on the right server.}) 10... Qe6 {This opens the road for the bishop and hits the
+c4 pawn at once.} ({The alternatives are} 10... O-O-O) ({Or} 10... a5 11. Nc3
+a4) 11. f4 {What a bizarre position. White played only with his pawns and
+heavy pieces so far, while Black developed two light pieces and castles now.}
+O-O-O 12. a4 {Still, White does not care about the development! However
+Nakamura wants to make use of the awkward position of both light pieces. They
+are indeed developed, but not in a good way.} d5 {Carlsen, on his turn, is
+determined to open the center and reach the enemy king as soon as possible.} 13. a5 $1 {
+Consistant.} ({Whereas} 13. exd6 {can be met with either} Qf6 ({or} 13... Qxd6
+$5) 14. dxc7 Bb4+ 15. Nc3 Rd4 {with a strong initiative for the material.}) 13...
+Nxc4 ({The alternative is} 13... Nd7 {and this might be safer, at least for
+the knight. After} 14. a6 (14. Be3 {could be stronger.}) 14... Ba8 15. Be3 {
+the game remains crazily complicated.}) 14. b3 ({Not} 14. a6 $6 {which
+achieves less than nothing after} Ba8 15. b3 Nb6) 14... Bb4+ 15. Kf2 {The
+concrete result of the lack of development.} (15. Nd2 Nxa5 {is bad for White.})
+15... Nxa5 $1 {Carlsen continues to play for the initiative.} ({Instead} 15...
+Bc5+ {could have led to a draw almost by force in the line} 16. Kg3 (16. Ke1
+Bb4+) 16... Bg1 $1 {A nice study-like move.} 17. bxc4 h5 ({But Black may do even
+better with} 17... dxc4 $1) 18. Rh1 Qg6+ 19. Kh3 Qf5+ 20. Kg3 {and perpetual.}
+(20. g4 hxg4+ 21. Kg3 Bd4 {is good for Black.})) 16. Bd2 {The knight is
+trapped.} c5 ({Here} 16... Bc5+ 17. Ke1 f6 18. Rxa5 Bb6 {is less convincing.})
+17. Rxa5 Bxa5 18. Bxa5 Qf5 {The double attack wins a third pawn for the piece.}
+19. Nc3 ({Weaker seems} 19. Qe3 {with the idea to counterattack after} Qxb1 ({
+However} 19... d4 $1 20. Qc1 f6 {keeps the fuel of the attack.}) 20. Qxc5)
+19... Qxf4+ 20. Kg1 Rhe8 {Probably the first inaccuracy by the world champion.}
+({The immediate} 20... d4 {was better, when a forcing line runs:} 21. Nb5 (21.
+Na4 $5) 21... a6 22. Nxc7 Rd7 23. Qc4 Rxc7 24. Bxc7 Kxc7 25. Qxc5+ Kb8 {
+since both the kings are iffy, the logical outcome is a draw by perpetual. For example} 26. Qd6+ Ka7 27. Rf3 Bxf3 28. Qxa6+ Kb8 29. Qd6+ Kc8 30. Ba6+ Bb7 31.
+Qc6+ Kd8 32. Qd6+) 21. Nb5 a6 ({After} 21... Rxe5 {White has a pleasant choice
+between} 22. Qc2 $1 ({Or} 22. Bxc7 Rxe2 23. Bxf4)) 22. Rf3 $1 {Nakamura seizes
+his chance. The active rook provides some additional possibilities.} Qxe5 ({
+The alternative} 22... Qxh4 23. Nxc7 Qd4+ 24. Qf2 Qxf2+ 25. Kxf2 Rxe5 26. Nxa6
+{also leaves decent winning chances for White.}) 23. Qxe5 Rxe5 24. Bxc7 Ree8 {
+The second inaccuracy.} (24... f6 {seemed stronger, when after} 25. Bxd8 ({
+Weaker is} 25. Bxe5 fxe5 26. Na3 Kc7 27. Rf7+ Rd7) 25... Kxd8 26. Nd6 Kc7 27.
+Nxb7 Kxb7 28. Kf2 Kb6 {when a draw should be the most likely outcome.}) 25. Bxd8
+Rxd8 26. Na3 {As a rule in the endgame, pawns are more valuable than the
+pieces as each of them can become a queen. However here the black pawns are
+more weaknesses than strenghts and this determines White's advantage.} Rd7 ({
+Here} 26... f6 27. Rc3 {will drop the pawn on c5.}) 27. Bd3 $1 {A double
+attack.} Kd8 {White's plan is simple: get all the weaknesses. Black's plan:
+trade them when you can.} (27... g6 {would allow domination after} 28. Rf6
+a5 29. Kf2) 28. Bxh7 g6 29. h5 {Best.} ({Weaker was} 29. Bg8 Ke8) ({Or} 29. g4
+d4 30. Rf2 Bd5) 29... gxh5 {Carlsen can be happy that he traded one more pawn,
+but Nakamura can be happier as there are more weaknesses in the opponent's
+camp.} 30. Rf6 Ke7 31. Rb6 Rc7 32. Nc2 ({The a-pawn is not as important-:} 32.
+Bd3 Bc8 33. Bxa6 $6 Bxa6 34. Rxa6 Rb7) (32. Kf2 {was good too though.}) 32...
+a5 33. Ne3 c4 {Trading another pawn.} ({Maybe Black should have seeked for
+counterplay with} 33... Bc6 34. Ra6 a4 35. bxa4 Kd6) 34. Bc2 Bc6 ({After} 34...
+cxb3 35. Bxb3 d4 36. Nf5+ {the d-pawn would drop. Soon the a-one will follow...
+}) 35. bxc4 dxc4 36. Ra6 {But now all the black pawns are doomed.} a4 37. Bxa4
+Be4 38. Ra5 Ke6 39. Rxh5 $1 ({The alternative does not win:} 39. Nxc4 Rxc4 40.
+Bb3 Bd5 41. Bxc4 Bxc4 42. Rxh5 {and according to the tablebases this should be
+a draw.}) 39... c3 40. Bb3+ Kd6 41. Bc2 Bxc2 42. Nxc2 {And this should be all
+for tonight, right? A healthy extra piece and there is still one white pawn
+left. However, these endgames sometimes are not winnable due to the nature of
+the knight. It is a short-ranged piece and as long as the queenside passer is
+far away from the kingside there are always chances. The white king needs to
+go to the queenside and the g-pawn can be taken, or traded.} Ke6 ({The
+counterplay fizzles quickly after} 42... Rb7 43. Rh3) 43. Kf2 f5 $1 {In order
+to keep the g2 pawn under constant pressure.} 44. Rh3 Ke5 45. Rd3 ({Probably
+White should have taken the pawn like this:} 45. Ke3 Rg7 46. Ne1 Ra7 47. Kd3
+Ra1 48. Nc2 Rd1+ 49. Kxc3 Rg1 50. Re3+ Kf4 51. Rf3+ Ke4 52. Rf2) 45... Kf4 46.
+Rd4+ Kg5 47. Kf3 Rc8 48. Ra4 Rc7 49. Ra8 Kf6 50. Ra6+ Kg5 51. Nd4 Rc4 52. Ne6+
+Kf6 53. Nf4+ {These checks are a sign that something might go wrong.} Ke5 54.
+Nd3+ Kd5 (54... Kd4 55. Rd6#) 55. Ra2 (55. Ra5+ $1 {should be a win as} Kd4 56.
+Nf4 c2 57. Ne2+ Kd3 58. Rd5+ Rd4 59. Rxd4#) 55... Kd4 56. Nc1 {Now the pawn
+becomes too dangerous.} (56. Ne1 $1 {was still the way to play for the win.})
+56... c2 57. Ra5 Rc3+ 58. Kf4 Rc8 {It transpires that with the pawn on c2
+Black has chance to survive even without the f-pawn.} 59. Rxf5 (59. Kxf5 Rf8+
+60. Kg4 Rf1 61. Ra1 Ke3 {is a draw too.}) 59... Re8 {And the world champion
+survived!} 60. Rf7 Re1 61. Rd7+ Kc3 62. Rc7+ Kd2 63. Nb3+ Kd3 64. Nc5+ Kd4 65.
+Nb3+ Kd3 66. Nc5+ Kd4 67. Nb3+ Kd3 68. g4 Rf1+ 69. Kg5 Rb1 70. Nc5+ Ke3 71. Nb3
+Kd3 ({Of course not} 71... Rxb3 72. Rxc2) 72. Nc5+ Ke3 73. Nb3 1/2-1/2
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.08"]
+[Round "6.4"]
+[White "Adams, Michael"]
+[Black "Nepomniachtchi, Ian"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2715"]
+[BlackElo "2729"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[WhiteFideId "400041"]
+[BlackFideId "4168119"]
+[EventDate "2017.12.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 g6 7. Be2 Bg7 8. O-O
+O-O 9. Be3 Nc6 10. Qd2 Nxd4 11. Bxd4 Be6 12. a5 Rc8 13. Rfd1 Qc7 14. h3 Rfe8 15.
+Ra3 Nd7 16. Bxg7 Kxg7 17. Qd4+ Kg8 18. Rd2 Qc5 19. Qxc5 Rxc5 20. Nd5 Bxd5 21.
+exd5 b5 22. axb6 Nxb6 23. Rxa6 Nxd5 24. c3 Nc7 25. Rb6 d5 26. Rb7 e6 27. Rd3 Na8
+28. Rd4 Rc7 29. Rdb4 Kg7 30. f4 Ree7 31. Rxc7 Rxc7 32. Rb8 Ra7 33. b4 Nc7 34. b5
+Ra8 35. Rb7 Ne8 36. c4 Nd6 37. Rc7 dxc4 38. Bxc4 Ra1+ 39. Kf2 Rc1 40. b6 Nxc4
+41. b7 Rb1 42. Rxc4 Rxb7 43. Ra4 h6 44. Ra5 Rb2+ 45. Kf3 Rb3+ 46. Kf2 Rd3 47. h4
+Rd5 48. Ra7 g5 49. hxg5 hxg5 50. fxg5 Rxg5 51. g3 Kg6 52. Kf3 Rf5+ 53. Kg2 Rb5
+54. Re7 e5 55. Kf2 f6 56. Re8 Kf5 57. Rf8 Rb3 58. Kg2 Rb2+ 59. Kf3 Rb3+ 60. Kg2
+Ke6 61. Kf2 Ra3 62. Re8+ Kf5 63. Rf8 Ra7 64. Kf3 Rg7 65. Re8 Kg5 66. Re6 Rg8 67.
+Re7 Kf5 68. Rh7 Ra8 69. Rh5+ Kg6 70. Rh4 f5 71. Rb4 Kg5 72. Rb7 e4+ 73. Ke3 Ra3+
+74. Kf2 Ra2+ 75. Ke3 Kg4 76. Rg7+ Kh3 77. Rg5 Ra3+ 78. Kf2 Rf3+ 79. Ke1 Kg2 80.
+Ke2 Rf2+ 81. Ke3 Kf1 82. g4 Rf3+ 83. Kd4 e3 84. Rxf5 Rxf5 85. Kxe3 Rf8 0-1
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.08"]
+[Round "6.5"]
+[White "Anand, Viswanathan"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2782"]
+[BlackElo "2760"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Flohr variation"]
+[WhiteFideId "5000017"]
+[BlackFideId "14109603"]
+[EventDate "2017.12.01"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 d4 5. exf6 dxc3 6. bxc3 Qxf6 7. Nf3 e5 8. d4
+Nc6 9. Bg5 Qg6 10. d5 Nb8 11. h4 h6 12. h5 Qa6 13. Be3 Nd7 14. Bd3 Ba3 15. O-O
+Qd6 16. Nh4 O-O 17. Nf5 Qf6 18. Ng3 Qh4 19. Nf5 Qf6 20. Ng3 Qh4 1/2-1/2[Event "9th London Classic 2017"]
+[Event "London ENG"]
+[Site "London ENG"]
+[Date "2017.12.09"]
+[Round "7"]
+[White "Caruana, F."]
+[Black "So, W."]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[WhiteElo "2799"]
+[BlackElo "2788"]
+[PlyCount "60"]
+[EventDate "2017.11.29"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 Bc5 6. c3 b5 7. Bb3 d6 8. Nbd2
+O-O (8... Bb6 9. Nf1 Ng4 10. d4 exd4 11. h3 Nge5 12. Nxd4 O-O 13. Ng3 Nxd4 14.
+cxd4 Ba5+ 15. Kf1 Nc4 {Caruana,F (2807)-Najer,E (2707) Tbilisi 2017}) 9. Nf1 d5
+10. exd5 Nxd5 11. Ng3 f6 $146 (11... Bg4 12. h3 Nf4 13. hxg4 Nxd3+ 14. Ke2 Nxf2
+15. Qxd8 Raxd8 16. Rf1 e4 17. Ng5 e3 18. Nxf7 Rxf7 19. Bxf7+ Kxf7 20. Bxe3 Bxe3
+21. Kxe3 {1-0 Degraeve,J (2542)-Mounier,E (2092) Bastia 1999}) 12. O-O Be6 13.
+Ne4 Be7 14. d4 exd4 15. Nxd4 Nxd4 16. Qxd4 Bf7 17. Re1 Re8 18. Be3 c6 19. Ng3
+Bf8 20. Bd2 Qd7 21. Bc2 c5 22. Qh4 Bg6 23. Bxg6 hxg6 24. Rad1 Rxe1+ 25. Rxe1
+Re8 26. Rxe8 Qxe8 27. Qg4 Kf7 28. Qf3 Qd7 29. Ne4 Qf5 30. Qe2 c4 1/2-1/2
+
+[Event "London Chess Classic"]
+[Site "?"]
+[Date "2017.12.09"]
+[Round "7.2"]
+[White "Carlsen, Magnus"]
+[Black "Adams, Michael"]
+[Result "1-0"]
+[ECO "A03"]
+[WhiteElo "2837"]
+[BlackElo "2715"]
+[Annotator "Bojkov, Dejan"]
+[PlyCount "115"]
+[EventDate "2017.??.??"]
+
+1. f4 {There will be hardly a better moment to try the Bird than against Adams.
+The reasons: 1) Adams is not a 1.d4 player and has very little experience
+against the Dutch as White. Thus, the reversed Dutch sounds interesting. 2) Adams has
+only one game against 1.f4 in the Megabase. 3) He helped Carlsen in the past and
+knows his openings quite well. 4) Why should there be a reason for the world
+champion to play whatever he likes?} d5 2. Nf3 Nf6 ({Adams's only previous
+game saw the inspiring} 2... Bg4 3. e3 Nd7 4. h3 Bxf3 5. Qxf3 e5 6. Qxd5 Ngf6
+7. Qf3 exf4 8. exf4 Bd6 {Rendle,T (2383)-Adams,M (2745) London 2014}) 3. g3 g6
+4. Bg2 Bg7 5. O-O O-O 6. d3 {Now it is a reversed Leningrad Dutch.} c5 7. c3
+Nc6 8. Na3 {A specialty of the Icelandic GM Danielsen. The knight is flexible
+on a3, ready to jump to c2 and sometimes c4.} Re8 ({Another option is} 8...
+Bg4 9. Qc2 d4 {which led to an intense tactical skirmish after} 10. e4 Rc8 11.
+h3 Bxf3 12. Bxf3 dxc3 13. bxc3 Nd4 14. cxd4 Qxd4+ 15. Kg2 Qxa1 16. Be3 {
+Kamsky,G (2676)-Antipov,M (2582) Bastia 2017}) ({Normally Black is looking
+forward to advance his central pawn with} 8... d4 {but here it might not be
+optimal as} 9. e4 dxe3 10. Bxe3 {"embarasses the c5 pawn" (Vigus.)}) 9. Nh4 b6
+10. e4 dxe4 11. Qa4 $146 {A novelty that keeps the queens aboard. But is it
+correct?} ({Apparently Adams was not afraid of the endgame that has been tested
+before:} 11. dxe4 Qxd1 12. Rxd1 e5 13. Nb5 Bg4 14. Rd6 Rac8 {indeed, Black
+seems fine here, Van Dooren,D (2335)-Abbasov,F (2519) Cappelle-la-Grande 2008})
+11... Qxd3 $1 {You do not have to ask Adams twice.} ({After} 11... Bd7 12. dxe4
+{Black has not way to exploit the discovered attack on the a4-e8 diagonal.})
+12. Qxc6 {Carlsen also accepts the challenge, but this might not be the right
+decision.} ({Objectively best might be:} 12. Rd1 Qe2 13. Rd2 {when} Qe1+ {
+could be risky for the health of her Majesty after} (13... Qg4 14. Qxc6 {
+is bad for Black.}) (13... Qe3+ 14. Rf2 Qe1+ 15. Rf1 Qe2 16. Qxc6 Bd7 {is
+unclear.}) 14. Bf1 {Now Rd2-e2 is a threat, but there is the tricky} Nd4 {
+the queen escapes with an unclear game after} (14... Qe3+ 15. Rf2 Qe1 16. Re2 {
+traps the queen.}) 15. cxd4 Qe3+ 16. Kg2) 12... Bd7 13. Qc7 Ng4 {A very good
+move, but there was an even better one.} ({Adams missed a golden opportunity
+to get the advantage after the preliminary} 13... Rec8 $1 {when} 14. Qe5 {
+is virtually forced but} (14. Qb7 $2 {loses to} Rcb8 15. Qc7 Ne8) 14... Bc6 {
+puts the white queen in danger of losing his queen. For example} ({Not yet} 
+14... Ng4 $2 15. Qxe4) 15. Re1 (15. Qxe7 Re8 16. Qc7 Rac8 17. Qxa7 Nd5 $1 {
+followed by Rc8-c7 is strong.}) 15... Qd7 $1 16. Be3 $2 ({Best was} 16. Nxg6
+hxg6 17. Qg5 {but Black is clearly better here too.}) 16... Ng4 17. Qg5 h6 {
+trapping the queen.}) 14. Re1 ({Or} 14. Qb7 f5 15. Re1 Reb8 16. Qc7 Rc8 17. Qb7
+Bd4+ 18. cxd4 Qxd4+ 19. Be3 Nxe3 {with an advantage for Black.}) 14... Bd4+ {
+Again good, but...} ({The preliminary} 14... Rac8 $1 {would be better, for
+example} 15. Qxa7 ({Worse is} 15. Qb7 Bc6 16. Qxa7 Bd4+) 15... Bd4+ 16. cxd4
+Qxd4+ 17. Be3 Nxe3 18. Kh1 Ng4 19. h3 Nf2+ 20. Kh2 e5 {Black has a great
+initiative for the piece.}) ({Certainly not with the other rook though} 14...
+Rec8 $2 15. Bxe4 $1) 15. cxd4 Qxd4+ 16. Be3 ({Carlsen does not want to
+co-operate for a smothered mate} 16. Kh1 $4 Nf2+ 17. Kg1 Nh3+ 18. Kh1 Qg1+ 19. Rxg1
+Nf2#) 16... Nxe3 17. Qe5 $1 {This is the reason why the Rc8 move should have
+been thrown in on the previous move. Carlsen manages to trade the queens and a
+complex endgame emerges.} f5 {This allows a sudden tactical resource.} ({
+Better was} 17... Nxg2+ 18. Qxd4 (18. Kxg2 $2 Qxe5 19. fxe5 g5) 18... cxd4 19.
+Nxg2 f5) 18. Bh3 {White also missed it.} (18. Nf3 $1 {would have turned the
+tables into White's favor as his knight is coming out of the prison:} exf3 19.
+Bxf3 Nc2+ 20. Qxd4 Nxd4 21. Bxa8 Rxa8 22. Rxe7) 18... Nc2+ (18... Nd5+ {
+might be a better version of the endgame, say} 19. Qxd4 cxd4 20. Rad1 d3) 19.
+Qxd4 Nxd4 20. Rxe4 $1 {The point behind the bishop sortie. Otherwise Black
+will gradually improve his position.} (20. Kf2 e5) 20... fxe4 21. Bxd7 {
+The middlegame is over. It is time for a sharp, unbalanced endgame. Adams has a
+slight material advantage, but if the pieces get co-ordinated it will be
+Carlsen who will call the shots.} Red8 22. Ba4 e5 {Energetic play.} ({Although
+} 22... a6 23. Re1 b5 24. Bd1 Nf5 {is promising too.}) 23. Re1 ({Adams's idea
+is revealed in the line} 23. fxe5 g5 24. Ng2 Nf3+) 23... exf4 24. gxf4 a6 25.
+Bd1 b5 26. Nb1 (26. Rxe4 {drops material due to} Nf5 ({Although the trade of
+the rooks after} 26... Re8 27. Rxe8+ Rxe8 28. Kf2 Rd8 {is something that Black
+wishes to do too.}) 27. Bb3+ c4) 26... Nf5 {Again not bad, but...} ({Another
+chance is missed for an advantage:} 26... e3 $1 {was strong with the tactical
+point} 27. Rxe3 $2 ({Calm play also leads to a clear edge for Black after} 
+27. Nc3 Re8 28. Kf1 g5 29. fxg5 Re5) 27... Nf5 28. Nxf5 Rxd1+ {and Black wins.}
+) 27. Nxf5 gxf5 28. Kf2 {Finally Carlsen stabilizes the situation.} Kf7 (28...
+Rd3 $5 29. Be2 Rh3 30. Kg2 Rh6) 29. Be2 Rd6 30. h4 $1 {A strong idea. Instead
+of a weakness, this pawn can become an attacking tool.} c4 31. a4 {Fixes some
+targets to keep the rooks busy.} Rc8 32. axb5 axb5 33. Na3 Rd5 34. Rc1 Rdc5 (
+34... Rcc5 35. Nb1 Ke6 {looks equal.}) 35. Nc2 Ra8 36. Ne3 Rac8 ({Black loses
+a pawn in case of the active} 36... Ra2 37. b4 Rc6 38. Nxf5 {But this is only
+temporary} Rf6 39. Nd4 Rxf4+ 40. Kg3 Rf6 {then anything is possible.}) 37. h5 {
+Carlsen did once again magic with his pieces and no longer risks to lose. Now
+he tries to win!} Ke6 38. h6 Kf6 (38... R8c6 $5) 39. Ra1 b4 (39... Kg6 {
+In the line} 40. Rg1+ {Black cannot grab the pawn with} Kxh6 $2 ({However} 
+40... Kf6 {should objectively lead to a draw. One line runs} 41. Rg7 b4 42.
+Nxc4 Rxc4 43. Bxc4 Rxc4 44. Rxh7 Rc2+ 45. Kg3 Rxb2 46. Rb7 Rb3+ 47. Kg2 Rc3 48.
+h7 Rc8 49. Rxb4 Rh8 50. Rb7) {Due to} 41. Rg5 $1) 40. Ra6+ Ke7 41. Ra7+ Kf6 42.
+Ke1 b3 {Ugh, this is not good.} ({Correct was} 42... c3 43. bxc3 bxc3 44. Kd1
+Rd8+ 45. Kc1 Rd2 46. Bc4 Rh2 {with a very likely draw.}) 43. Rb7 Ke6 ({
+It is too late for} 43... c3 44. bxc3 Rxc3 45. Nd5+) 44. Rb6+ $1 {A nasty
+little check. Where is the king going?} ({The immediate} 44. Rb4 c3 {was
+possible at once, see the line below.}) 44... Ke7 ({Safer (if you are a computer)
+was} 44... Kd7 45. Rb7+ Ke6 46. Rb4 {when} c3 47. bxc3 Rxc3 48. Kd2 R8c6 $1 {
+might lead to a study-like draw after} 49. Bc4+ R6xc4 50. Nxc4 Rc2+ 51. Ke1 (
+51. Ke3 Rc3+) 51... Rc1+ 52. Kf2 Rc2+ 53. Kg3 Rc3+ 54. Kh4 Rf3) 45. Rb4 R8c6 ({
+Here} 45... c3 46. bxc3 Rxc3 (46... R8c6 47. Rxb3 Rxh6) 47. Nd5+ {is not as
+appealing. The bishop is definitely stronger than the knight.}) 46. Bxc4 Rxh6
+47. Rxb3 {White's progress is evident. But is it a win?} Kd8 48. Rb8+ {Carlsen
+combines play against the black pawns with an attack against the black king.}
+Kc7 49. Rf8 Rh3 50. Nd5+ Kb7 51. Rf7+ $1 {Another nasty check!} Kb8 {Running
+into safety, but this is all illusion. The king is vulnerable on the back rank!
+} ({Adams could have still held the draw with} 51... Kc6 $1 52. Rf6+ Kb7
+53. b3 Ra5 54. Rxf5 $6 Ra2) 52. b3 Rh2 ({Alas,} 52... Ra5 {does not work here
+because of} 53. Nb4 $1 {both limiting the rook and threatening checkmate.}) 53.
+Nb4 $1 {Carlsen put the black king in a mating net and this will bring him the exchange as a payback.} Kc8 54. Na6 Rc6 55. Rf8+ Kb7 ({Or} 55... Kd7 56. Nb8+ Ke7 57. Rf7+)
+56. Bd5 Kxa6 57. Bxc6 Kb6 58. Bd7 {A majestic game!} 1-0
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.09"]
+[Round "7"]
+[White "Nepomniachtchi, I."]
+[Black "Anand, V."]
+[Result "1-0"]
+[ECO "A17"]
+[WhiteElo "2729"]
+[BlackElo "2782"]
+[PlyCount "73"]
+[EventDate "2017.11.29"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. e3 a6 5. b3 Bd6 6. Bb2 O-O 7. g4 $5 $146 Nxg4
+8. Rg1 f5 9. cxd5 e5 10. h3 Nf6 11. Ng5 Qe7 12. Qf3 Kh8 13. Ne6 Bxe6 14. dxe6
+Qxe6 15. Qxb7 ({Nepo had planned} 15. Bc4 {but forgot about} Qd7 16. Qxb7 Nc6)
+15... Nbd7 16. Bc4 Qe7 17. Qg2 Nb6 18. Be2 a5 19. Bb5 Rad8 ({Afterward Anand
+preferred} 19... e4 {and 20...Be5.}) 20. Qg5 g6 21. Qh6 Ng8 22. Qg5 Nf6 23. Rd1
+{"I had a chance to repeat, but I was thinking it would be cowardice and
+decided to play on. Normally when you decline a repetition you lose but here
+it paid off." - Nepomniachtchi} e4 24. Qh6 Rg8 25. Ne2 Be5 26. Bxe5 Qxe5 27.
+Nf4 g5 ({Anand said he had "completely misjudged" this position.} 27... Qxb5
+28. Nxg6+ Rxg6 29. Rxg6 Rg8 30. Rxg8+ Nxg8 31. Qe6) 28. Rxg5 Rxg5 29. Qxg5 Rg8
+30. Qh6 Rg7 {"A bit sad but I realized I don't have a move here." (Anand)} 31.
+Bc4 Nxc4 32. bxc4 Qb2 33. Ke2 a4 34. Ne6 Rf7 35. Nf4 Rg7 36. a3 $1 (36. Ne6 Rf7
+37. Nd8 Rg7 38. Rg1 Ng4 $1 39. hxg4 Qc2 {Nepo}) 36... Ne8 ({Nepo said he
+wanted to provoke} 36... c5 {due to the line} 37. Ne6 Rf7 38. Nd8 Rg7 39. Rg1
+Ng4 {and now White has} (39... Rxg1 40. Qf8+ Rg8 41. Nf7#) 40. Qd6 $1) 37. Qc6
+1-0
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.09"]
+[Round "7"]
+[White "Aronian, L."]
+[Black "Nakamura, Hi"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2805"]
+[BlackElo "2781"]
+[PlyCount "90"]
+[EventDate "2017.11.29"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. Qc2
+Nc6 9. Rd1 Qa5 10. a3 Re8 11. Nd2 e5 12. Bg5 Nd4 13. Qb1 (13. Qc1 Bf5 14. Bxf6
+Nc2+ 15. Ke2 Nd4+ 16. Ke1 Nc2+ 17. Ke2 Nd4+ 18. Ke1 Nc2+ {1/2 Carlsen,M (2827)
+-Nakamura,H (2781) Douglas 2017}) 13... Bf5 14. Bd3 Bxd3 15. Qxd3 Ne4 16. Nxd5
+Nxg5 17. b4 Qd8 $146 (17... Qa6 18. bxc5 Rad8 19. Nb4 Qa4 20. Qb1 a5 21. Nd5
+Nc2+ 22. Ke2 Ne4 23. Nxe4 Qxc4+ 24. Kf3 Rxd5 25. g4 {Aronian,L (2801)-Inarkiev,
+E (2683) Palma de Mallorca 2017}) 18. bxc5 Nde6 19. O-O Nxc5 20. Qb1 Rc8 21. f4
+exf4 22. exf4 Nge4 23. Nxe4 Rxe4 24. Rde1 Rxe1 25. Rxe1 Rb8 26. Qb5 Nd7 27. h3
+Nf6 28. Nxf6+ gxf6 29. Kh2 Qd6 30. Qf5 b6 31. c5 bxc5 32. Rc1 Kh8 33. Rxc5 Rg8
+34. Rd5 Qb6 35. Rd7 Qc6 36. Rd2 Re8 37. Qh5 Qe4 38. Qh4 Qf5 39. Rb2 Re4 40. Qg3
+Qg6 41. Qf2 Qf5 42. Rb8+ Kg7 43. Rb3 Qxf4+ 44. Rg3+ Kf8 45. Qxa7 Qe5 1/2-1/2
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.09"]
+[Round "7"]
+[White "Karjakin, Sergey"]
+[Black "Vachier Lagrave, M."]
+[Result "0-1"]
+[ECO "B96"]
+[WhiteElo "2760"]
+[BlackElo "2789"]
+[PlyCount "118"]
+[EventDate "2017.11.29"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Qb6 9. a3 Be7 10. Bf2 Qc7 11. Qf3 Nbd7 12. O-O-O b5 13. g4 Bb7 14. Bg2 (14. h4
+Nc5 15. Bd3 h5 16. g5 Ng4 17. Rhg1 g6 18. Rxg4 hxg4 19. Qxg4 e5 20. Nf3 Rc8 {
+Giri,A (2762)-Vachier Lagrave,M (2796) Palma de Mallorca 2017}) 14... g5 15. h4
+gxf4 16. g5 Ne5 17. Qxf4 hxg5 $146 (17... Nfg4 18. g6 Rf8 19. Bg3 h5 20. gxf7+
+Rxf7 21. Qd2 Nc4 22. Qe2 Rc8 23. Rd3 Bf6 {Yu,Y (2662)-Sethuraman,S (2553)
+Kocaeli 2013}) 18. hxg5 Rxh1 19. Rxh1 Nfd7 20. Kb1 (20. Rh3 {prevents 0-0-0
+but is not clear according to Karjakin after} Ng6 ({or} 20... Rc8)) 20... O-O-O
+21. Rh3 ({Karjakin spent a lot of time calculating} 21. g6 Rg8 22. gxf7 Rxg2
+23. Nxe6 {when} Qc4 $1 24. Rh8+ Nf8 25. Nxf8 Qf1+ 26. Nd1 (26. Ka2 Rxf2) 26...
+Qxd1+ 27. Ka2 Qxc2 28. Ne6+ Kd7 29. f8=Q Qc4+ 30. Ka1 Qf1+ {is a draw.}) 21...
+Kb8 22. Be3 Rg8 23. Rg3 Rg7 24. Bh3 Rh7 25. Qf2 Nc5 26. Bg2 Qc8 27. Bc1 $6 (27.
+Bf4 Bd8 28. Nf3 {Karjakin}) 27... Bd8 $1 {Now Black is better.} 28. Nf3 Ng6 29.
+Nd4 Ne5 30. Nf3 Ng6 31. Nd4 Bb6 32. Be3 Ne5 33. b3 Rh4 34. Nde2 Qc7 35. Bd4
+Ncd7 36. Bxb6 Qxb6 37. Qxb6 Nxb6 38. Nd4 Ng6 39. Kc1 Nd7 40. Kd2 Nf4 41. Ke3
+Nxg2+ 42. Rxg2 Rh3+ 43. Kd2 Ne5 44. Nde2 Nf3+ 45. Kc1 Nh4 46. Rg1 Ng6 47. Kd2
+Kc7 48. Nd4 Kd7 49. Rf1 Ke7 50. Rg1 Ne5 51. Rg2 Ba8 52. Nde2 Nf3+ 53. Kc1 Rh1+
+54. Kb2 Nh4 55. Rg4 Ng6 56. Nf4 Nxf4 57. Rxf4 Rg1 58. Rh4 Rxg5 59. Kc1 d5 (
+59... d5) 0-1
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.10"]
+[Round "8"]
+[White "Nakamura, Hi"]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[WhiteElo "2781"]
+[BlackElo "2799"]
+[PlyCount "85"]
+[EventDate "2017.11.29"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. Nf3 c5 6. dxc5 Na6 7. g3 Nxc5 8.
+Bg2 Nce4 9. O-O Nxc3 10. bxc3 Be7 11. e4 d6 12. e5 dxe5 13. Nxe5 Qc7 14. Qe2
+Nd7 15. Bf4 Nxe5 16. Bxe5 Bd6 17. Rfe1 Rb8 18. Rad1 Bxe5 19. Qxe5 Qxe5 20. Rxe5
+b6 21. c5 Ba6 $146 (21... f6 22. cxb6 axb6 23. Re2 Kf7 24. f4 {Navara,D (2730)
+-Caruana,F (2787) Wijk aan Zee 2016}) 22. c6 Rbc8 23. Rd7 Rfd8 24. Re4 Rxd7 25.
+cxd7 Rd8 26. Ra4 Bb5 27. Rxa7 Kf8 28. Bf1 Bxd7 29. Rb7 e5 30. Bc4 b5 31. Bxb5
+Be6 32. c4 Rd1+ 33. Kg2 Rc1 34. a4 Bxc4 35. Bxc4 Rxc4 36. a5 Ra4 37. Ra7 e4 38.
+Ra8+ Ke7 39. a6 Kf6 40. g4 e3 41. fxe3 Rxg4+ 42. Kf3 Ra4 43. a7 1/2-1/2
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.10"]
+[Round "8"]
+[White "Vachier Lagrave, M."]
+[Black "Anand, V."]
+[Result "1/2-1/2"]
+[ECO "C53"]
+[WhiteElo "2789"]
+[BlackElo "2782"]
+[PlyCount "53"]
+[EventDate "2017.11.29"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 O-O 6. O-O d5 7. exd5 Nxd5 8. a4
+a6 9. Re1 Bg4 10. h3 Bh5 11. Nbd2 f6 12. Ne4 Ba7 $146 (12... Bb6 13. Be3 Kh8
+14. Bxb6 Nxb6 15. Bb3 Nd5 16. Ng3 Bg6 17. d4 Nf4 18. Nh4 Be8 19. Re4 g5 20. Nf3
+exd4 21. Nxd4 Bg6 22. Re3 Ne5 23. Ne6 Nxe6 24. Bxe6 Qxd1+ 25. Rxd1 Rad8 26. Rd4
+Rfe8 27. Bf5 Kg7 28. b3 c5 29. Rxd8 Rxd8 {1/2 Vachier Lagrave,M (2794)-Leko,P 
+(2679) Germany 2017}) 13. b4 Kh8 14. Bd2 Nce7 15. b5 axb5 16. axb5 c6 17. Ng3
+Be8 18. Bxd5 $5 (18. bxc6 Bxc6 {isn't much for White (MVL).}) 18... cxd5 19. c4
+Bc5 20. Rxa8 Qxa8 21. d4 {Quickly played...} exd4 {..but here MVL started
+thinking as he noticed Black's 24th move.} 22. Nxd4 Bxd4 23. Rxe7 Bc5 24. Rc7
+Bb6 $1 {Missed by MVL in his initial calculations.} (24... Bd6 25. Rxg7 Kxg7
+26. Nf5+ Kh8 27. Nxd6 {felt too uncomfortable to Anand. "My king is so weak
+that even if he doesn't have anything forcing I felt that he will have very
+comfortable compensation."}) 25. Re7 (25. Rxg7 Kxg7 26. Bh6+ Kxh6 27. Nf5+ Kg6
+28. Qg4+ Kf7 29. cxd5 Qa1+ 30. Kh2 Qe5+ 31. g3 Qxd5 {"and I resign." (MVL)})
+25... Bc5 26. Rc7 Bb6 27. Re7 1/2-1/2
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.10"]
+[Round "8"]
+[White "Adams,Mi"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2715"]
+[BlackElo "2805"]
+[EventDate "2017.11.29"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1
+Nxe5 8. Rxe5 O-O 9. d4 Bf6 10. Re1 Nf5 11. c3 d5 12. Bf4 c6 13. Nd2 Nh4 14.
+Bd3 Bf5 15. Bxf5 Nxf5 16. Nf3 Qd7 17. Ne5 Bxe5 18. Rxe5 f6 19. Re1 Rfe8 20.
+Qd3 Rxe1+ 21. Rxe1 Re8 22. Re2 Rxe2 23. Qxe2 Kf7 24. Qh5+ Kg8 25. Qe2 Kf7
+26. Qh5+ Kg8 27. Qe2 1/2-1/2
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.10"]
+[Round "8"]
+[White "So, W."]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "E00"]
+[WhiteElo "2788"]
+[BlackElo "2760"]
+[PlyCount "112"]
+[EventDate "2017.11.29"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Be7 5. Nf3 d5 6. Bg2 O-O 7. O-O Nbd7 8.
+Qc2 c6 9. Bf4 b6 10. cxd5 cxd5 11. Rc1 Bb7 12. Qb3 Rc8 13. Rxc8 Qxc8 14. Nc3
+Nh5 15. Bg5 Bxg5 16. Nxg5 Nhf6 17. e3 Qb8 18. Bf1 Rc8 19. a4 h6 20. Nf3 Ne4 21.
+a5 Bc6 22. axb6 Nxc3 23. Qxc3 Nxb6 24. Qa3 Rc7 25. Ne5 Be8 26. Qb4 Nd7 27. Qxb8
+Nxb8 28. Nd3 Rb7 29. Ra2 Nc6 30. Nc5 Rb6 31. b3 Kf8 32. Ba6 Nb4 33. Ra3 Nxa6
+34. Nxa6 Bb5 35. Nc5 a6 36. f4 Ke7 37. Kf2 f6 38. g4 Rc6 39. Ra2 g5 40. Rc2 Rc8
+41. Kg3 gxf4+ 42. exf4 e5 43. fxe5 fxe5 44. dxe5 d4 45. Rc1 Rd8 46. Nb7 Rd5 47.
+Rc5 Ke6 48. Kf4 d3 49. Rxd5 Kxd5 50. Ke3 Kxe5 51. h4 d2 52. Kxd2 Kf4 53. g5
+hxg5 54. hxg5 Kxg5 55. Nc5 Kf6 56. Nxa6 Ke5 1/2-1/2
+
+[Event "London Chess Classic"]
+[Site "?"]
+[Date "2017.12.10"]
+[Round "8.1"]
+[White "Carlsen, Magnus"]
+[Black "Nepomniachtchi, Ian"]
+[Result "0-1"]
+[ECO "D13"]
+[WhiteElo "2837"]
+[BlackElo "2729"]
+[Annotator "Bojkov, Dejan"]
+[PlyCount "80"]
+[EventDate "2017.??.??"]
+
+1. Nf3 c5 2. c3 {An original move order, which soon leads to...} d5 3. d4 cxd4
+4. cxd4 {...the Exchanged Slav!} Nc6 5. Nc3 Nf6 6. Bf4 Nh5 7. Bd2 Nf6 ({Black
+can alos choose to fianchettoe his bishop with} 7... g6 8. e3 e6 9. Bb5 Bd7 10.
+Ne5 Nxe5 11. dxe5 Bxb5 12. Nxb5 a6 {Shimanov,A (2642)-Fedoseev,V (2690) Minsk
+2017}) 8. e3 e6 9. Bd3 Bd6 10. e4 {Otherwise there is a risk of a dull,
+symmetrical draw.} dxe4 11. Nxe4 {Now a position with an isolated central pawn
+arises.} Be7 12. O-O {When I first looked at the position I could not guess
+the opening. Similar situations are more common in the Panov Attack of the
+Caro-Kann, or the Nimzo-Indian.} O-O ({It is not advisable to grab a pawn like
+the one on d4 here:} 12... Nxd4 13. Nxd4 Qxd4 14. Bc3 Qd5 15. Qf3 {with a
+strong initiative after Ra1-d1 for the investment.}) 13. Qc2 {Weakening the
+kingside.} h6 {A safe choice.} (13... g6 {would weaken all the dark squares
+instead, although people successfully defend these positons too.}) 14. Rad1 {
+The plans of both sides are known from the Stone Age. White attacks the
+kingside and mates; Black trades and wins the isolani in the endgame.} Bd7 15.
+a3 Rc8 16. Nc3 $146 {A novelty.} ({Black was doing well after} 16. Qb1 Qb6 17.
+b4 Nxe4 18. Bxe4 Bf6 {as in Safarli,E (2620)-Mammadov,Z (2442) Baku 2012})
+16... a6 {Intending to advance the b-pawn.} 17. Qc1 {Not quite a delicate hint
+of what may happen on the kingside.} Re8 $1 ({A careless move like} 17... Na5 {
+would demonstrate White's idea:} 18. Bxh6 $1 gxh6 19. Qxh6 Nc4 20. Ng5 {and
+mate.}) 18. Rfe1 ({Here} 18. Bxh6 {fails to} gxh6 19. Qxh6 Bf8 20. Qh4 Bg7 {
+and Black defends.}) 18... Bf8 {Nepomniachtchi stopped the first attacking
+wave. Carlsen regroups.} 19. Bf4 b5 20. Qd2 b4 21. axb4 Nxb4 22. Ne5 {The
+world champion does not spend time defending the bishop...} (22. Bb1 {...even
+though it is a very strong piece. Apparently Carlsen figured that the time
+factor is more important.}) 22... Nxd3 23. Qxd3 {Nepomniachtchi is
+consistently searching for play on the queenside.} a5 ({There was an
+alternative though. The pawn sacrifice with} 23... Bb5 24. Nxb5 axb5 25. Qxb5 {
+is a common tool for Black in these positions as the sweet spot on d5 provides
+Black enough compensation for it.} Qd5 (25... Nd5)) 24. Qf3 {White is ready to
+shift the rooks along the third rank too and make the best use of his space
+advantage.} Bb4 {One of the key defenders of the kingside, the bishop leaves
+his Majesty for a moment and this could have had serious consequences. Carlsen
+is also consistent with his plan.} ({The computer suggests the following
+defensive method instead} 24... a4 25. Re3 Qe7 26. Nxd7 Qxd7 27. Bxh6 Nd5 28.
+Nxd5 exd5 29. Rxe8 Qxe8 30. Bd2 Rc2 {somehow holding the position.}) 25. Re3 ({
+However, there was a strong argument for the cruel} 25. Bxh6 $1 {The main idea
+is} gxh6 ({A better defense is} 25... Bxc3 26. bxc3 gxh6 {although White's
+initiative unfolds by itself after} 27. Qg3+ Kh7 ({Or} 27... Kf8 28. Rd3 (28.
+c4 {followed by Qg3-f4 also looks promosing for White.}) 28... Bc6 29. Qf4) 28.
+Nxf7 Qe7 29. Qd3+ Kg7 30. Ne5 {For the piece White has two pawns and a strong
+initiative. The black king is in danger without the pawn cover.}) 26. Ne4 Nxe4
+({If} 26... Be7 {then there is a pleasant choice between the simple} 27. Nxf6+
+({or the beautiful} 27. d5 exd5 28. Rxd5 Rc7 29. Qf4 {and Black is helpless.})
+27... Bxf6 28. Nxd7) 27. Qxf7+ Kh8 28. Ng6#) 25... Bxc3 26. bxc3 Ba4 {Sending
+the bishop in an urgent rescue kingside mission.} 27. Ra1 ({The other options
+also look promising:} 27. Rde1 Bc2 28. R3e2 Bf5 29. g4) ({or} 27. Rc1 {which
+deprives the bishop from the b1-h7 diagonal.}) 27... Bc2 {The bishop made it,
+but can Black really be happy? He traded only two pairs of light pieces and
+the intended queenside play has petered out. Carlsen keeps pressurizing.} 28.
+h3 Bf5 ({Apparently, Black discarded} 28... Nd5 {because of the same old
+sacrifice} 29. Bxh6 {and eventual mate after} Nxe3 ({with the same old mate
+after} 29... gxh6 30. Qxf7+ Kh8 31. Ng6+) ({A better defense is} 29... f6 30.
+Bxg7 fxe5 31. Bxe5 Qg5 32. Qg3 Qxg3 33. Rxg3+ Kh7 34. Rxa5 {although with four
+pawns for a piece White will love playing this.}) ({However, there was the
+strong defensive idea} 29... Qe7 $1 {when} 30. Qg4 {does not yield White much
+due to} Qf6 31. Rf3 Qxh6 32. Nxf7 Qg6 33. Qxg6 (33. Qh4 Qh7) 33... Bxg6 34. Nd6
+Ra8 35. Nxe8 Bxe8) 30. Qxf7+ Kh7 31. Qxg7#) 29. g4 $1 {The pawns clear the
+road of the pieces.} Bh7 30. c4 {Capital play, all over the board.} ({Perhaps
+even better was} 30. g5 hxg5 31. Bxg5 {For example} Bf5 32. Qg3 Nh5 33. Qh4 f6
+34. Qxh5 fxg5 35. Qf7+ Kh7 36. d5 Qxd5 37. Qh5+ Kg8 38. Rd1 {and White should
+win.}) 30... Nd7 {Apparently Carlsen went for the pawn in order to avoid any
+complications, but missed a tactical shot.} ({Since} 30... Qxd4 {will be met
+with} 31. Rd1 Qa7 32. Bxh6) 31. Nc6 $6 ({Instead} 31. c5 {would have kept
+clear advantage for him, without any risk:} Nf6 (31... Nxe5 32. Bxe5) 32. g5
+hxg5 33. Bxg5 Bf5 34. Ra4 ({Or} 34. c6)) 31... Qf6 32. Nxa5 Nb6 {White won a
+pawn,but the black pieces came into life. Now both white pawns are hanging and
+apparently Carlsen believed that his next move is the answer of his worries.} (
+{Cleverly avoiding} 32... Qxd4 $2 33. Rd1 Qb6 34. Nb7 Nc5 35. Nd6 {which loses
+material for Black.}) 33. c5 (33. Rc1 {is good for Black after} Qxd4 34. Rd1
+Qf6) 33... Rxc5 $1 {Simple but effective. Frustrated, White soon commits
+another blunder.} ({Maybe White expected} 33... Nd5 34. Be5 Qxf3 35. Rxf3) 34.
+dxc5 $6 ({Instead} 34. Be5 Qxf3 35. Rxf3 Rb5 36. Rb3 Rxb3 37. Nxb3 {would have
+most likely led to a draw, although Black can push for a win.}) 34... Qxa1+ 35.
+Kh2 Qxa5 36. Qc6 {A proper blunder.} (36. cxb6 Qxb6 {would be a torture, but
+maybe White can survive.}) 36... Qa4 {...} 37. Qxa4 Nxa4 38. c6 Nb6 39. c7 f6
+40. Rb3 Nc8 0-1
+
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.11"]
+[Round "9.1"]
+[White "Nepomniachtchi, Ian"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2729"]
+[BlackElo "2789"]
+[ECO "A33"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[WhiteFideId "4168119"]
+[BlackFideId "623539"]
+[EventDate "2017.12.01"]
+
+1. Nf3 c5 2. c4 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Bf4 d5 7. e3 Bb4 8. Be2
+Bd7 9. Nb5 e5 10. Bg5 a6 11. a3 axb5 12. axb4 Rxa1 13. Qxa1 dxc4 14. O-O O-O 15.
+Rd1 Qe7 16. Nd5 Qe6 17. Nc7 Qe7 18. Nd5 Qe6 19. Nc7 Qe7 1/2-1/2
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.11"]
+[Round "9.2"]
+[White "Aronian, Levon"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2805"]
+[BlackElo "2837"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[WhiteFideId "13300474"]
+[BlackFideId "1503014"]
+[EventDate "2017.12.01"]
+
+1. d4 e6 2. Nf3 c5 3. g3 cxd4 4. Nxd4 Qb6 5. Bg2 Bc5 6. e3 d5 7. Qg4 Bf8 8. O-O
+Nf6 9. Qe2 e5 10. Qb5+ Bd7 11. Qxb6 axb6 12. Nb3 Nc6 13. Bd2 Bd6 14. Nc3 Ne7 15.
+a4 O-O 16. Nb5 Bxb5 17. axb5 Rac8 18. Bc3 h5 19. Rfd1 Rfd8 20. Nd2 h4 21. Nf3
+hxg3 22. hxg3 e4 23. Ng5 Ng6 24. Ra7 Rb8 25. Bd4 Bc5 26. Bxc5 bxc5 27. c4 Ne7
+28. cxd5 Nc8 29. Ra4 Nb6 30. Ra3 Nc4 31. Rc3 Nd6 32. Rxc5 Ra8 33. Bh3 Re8 34.
+Rc7 Kf8 35. b6 Re5 36. Ne6+ fxe6 37. dxe6 Nfe8 38. Rd7 Raa5 39. b4 Rad5 40. Ra1
+Rb5 41. Ra8 Rxb6 42. Bg4 Rd5 43. Kg2 Rxb4 44. Ra1 Rbb5 45. Be2 Rb2 46. Bg4 Rdd2
+47. Kh3 Rxf2 48. Kh4 Rh2+ 49. Bh3 g5+ 50. Kh5 Rxh3+ 51. Kg6 Rf2 52. e7+ Kg8 53.
+Rxd6 Rh7 0-1
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.11"]
+[Round "9.3"]
+[White "Caruana, Fabiano"]
+[Black "Adams, Michael"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2799"]
+[BlackElo "2715"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[WhiteFideId "2020009"]
+[BlackFideId "400041"]
+[EventDate "2017.12.01"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Bc5 7. O-O O-O 8. d3
+Re8 9. Ng5 Nf6 10. Qb3 Qe7 11. Nd5 Nxd5 12. Bxd5 Nd8 13. Qc4 Bd4 14. Bg2 h6 15.
+Nf3 Nc6 16. Be3 Bxe3 17. fxe3 e4 18. dxe4 a5 19. a3 Ra6 20. Rac1 Rb6 21. Rc2 Be6
+22. Qc3 Rb3 23. Qd2 Rd8 24. Qc1 a4 25. Rc5 Rd7 26. h3 Qd8 27. g4 g6 28. Kh1 Kg7
+29. e5 Bd5 30. Kg1 Be6 31. Kf2 Qe7 32. Kg1 Rd5 33. Rc4 Ra5 34. Rc2 Bd5 35. Nd4
+Nxd4 36. exd4 Rg3 37. Rf3 Bxf3 38. exf3 c6 39. Kh2 Rxg2+ 40. Kxg2 Rd5 41. Rc4 c5
+42. Rxc5 Rxd4 43. Qc3 Qd8 44. Rc8 Qb6 45. Re8 g5 46. Re7 Kg8 47. e6 fxe6 48. Qc2
+Kf8 49. Rh7 Qc6 50. Qxc6 bxc6 51. Rxh6 Kf7 52. Kg3 Rd2 53. Rh7+ Kf6 54. Rb7 Ke5
+55. h4 gxh4+ 56. Kxh4 Kf4 57. Rf7+ Ke3 58. Kg3 Rd1 59. g5 Rg1+ 60. Kh4 Rg2 61.
+Rf6 e5 62. g6 Rxb2 63. Kg5 Rg2+ 64. Kh6 Rh2+ 65. Kg7 c5 66. Kf7 c4 67. g7 Rh7
+68. Ra6 1-0
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.11"]
+[Round "9.4"]
+[White "Anand, Viswanathan"]
+[Black "So, Wesley"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2782"]
+[BlackElo "2788"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "5000017"]
+[BlackFideId "5202213"]
+[EventDate "2017.12.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. a4 h6 7. c3 a5 8. Nbd2 d6
+9. h3 Be6 10. Re1 Bxc4 11. Nxc4 Re8 12. Be3 Bxe3 13. Nxe3 Qd7 14. Qb3 Ne7 15.
+Nc4 Ng6 16. Rad1 b6 17. Qc2 d5 18. exd5 Qxd5 19. b3 Rad8 20. d4 exd4 21. Rxd4
+Rxe1+ 22. Nxe1 Qa8 23. Rxd8+ Qxd8 24. Qd3 Qe7 25. Nc2 Nf4 26. Qd2 N6d5 27. Kf1
+Nxc3 28. N4e3 Ne4 29. Qd4 c5 30. Qd1 Qf6 31. Ng4 Qc3 32. Nce3 h5 33. Nh2 Qb2 0-1
+
+[Event "9th London Classic 2017"]
+[Site "London ENG"]
+[Date "2017.12.11"]
+[Round "9.5"]
+[White "Karjakin, Sergey"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2781"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "14109603"]
+[BlackFideId "2016192"]
+[EventDate "2017.12.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. cxd5
+Nxd5 9. Nxd5 exd5 10. a3 Nc6 11. Bd3 Bb6 12. O-O Qf6 13. b4 h6 14. b5 Nd4 15. h3
+g5 16. Nxd4 gxf4 17. Qf3 Bxd4 18. exd4 Be6 19. Rfe1 Kh8 20. Re5 Rg8 21. Rae1 Rg7
+22. g4 Rag8 23. Kf1 Rg5 24. Bc2 Rc8 25. Qd3 Kg8 26. Bd1 Kg7 27. Bf3 b6 28. Kg2
+Rh8 29. Qd2 Rc8 30. Qd3 Rh8 31. Qd2 Rc8 1/2-1/2
+
+
+
+[Event "9th London Classic TB"]
+[Site "London ENG"]
+[Date "2017.12.11"]
+[Round "1"]
+[White "Nepomniachtchi, Ian"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2729"]
+[BlackElo "2799"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack, Pachman system"]
+[WhiteFideId "4168119"]
+[BlackFideId "2020009"]
+[EventDate "2017.12.11"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. O-O e5 5. d3 Ne7 6. e4 O-O 7. exd5 Nxd5 8. Re1
+Nc6 9. Nc3 Nde7 10. Rb1 a5 11. a3 a4 12. Re4 Nd5 13. Bd2 Bf5 14. Re1 Nb6 15. Qc1
+Re8 16. Bh6 f6 17. Ne4 Qe7 18. h4 Bg4 19. Nh2 Be6 20. Be3 Nd7 21. Nc3 Qf7 22.
+Nb5 Nf8 23. c4 Red8 24. Qc2 Rd7 25. Nc3 Bf5 26. Bd5 Rxd5 27. cxd5 Ne7 28. g4 Bd7
+29. d4 Nxd5 30. dxe5 Bc6 31. Ne4 fxe5 32. Ng5 Qf6 33. Rbd1 h6 34. Ne4 Qf7 35. g5
+h5 36. Qc4 Re8 37. Nf1 Re7 38. Nfg3 Rd7 39. Nc3 Qe6 40. Rd2 Kf7 41. Red1 Nxe3
+42. Rxd7+ Nxd7 43. Qxe6+ Kxe6 44. fxe3 Bf8 45. Nge4 Be7 46. Kf2 Nb6 47. Nd2 Nd7
+48. Nc4 b6 49. Nd2 Nc5 50. Ke2 Bb7 51. e4 Ba6+ 52. Kf3 Bd6 53. Nf1 Bc4 54. Ne3
+Bb3 55. Rd2 c6 56. Nf1 Ke7 57. Ng3 Ne6 58. Nge2 b5 59. Nd1 Bc5 60. Ne3 Bb6 61.
+Nc1 Nd4+ 62. Kg3 Be6 63. Rd3 1/2-1/2
+
+[Event "9th London Classic TB"]
+[Site "London ENG"]
+[Date "2017.12.11"]
+[Round "2"]
+[White "Caruana, Fabiano"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2799"]
+[BlackElo "2729"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[WhiteFideId "2020009"]
+[BlackFideId "4168119"]
+[EventDate "2017.12.11"]
+
+1. e4 c5 2. Nc3 d6 3. Nge2 Nf6 4. g3 g6 5. Bg2 Bg7 6. d3 Nc6 7. a3 Rb8 8. Rb1
+O-O 9. O-O b5 10. b4 a6 11. h3 Nd7 12. Be3 Bb7 13. Qd2 Nd4 14. f4 e6 15. Bf2 f5
+16. Nxd4 cxd4 17. Ne2 e5 18. c3 fxe4 19. dxe4 Nf6 20. cxd4 Nxe4 21. Qd3 Nxf2 22.
+Rxf2 Qb6 23. Rd1 Kh8 24. Bxb7 Rxb7 25. dxe5 dxe5 26. Qd6 Qa7 27. Rd5 Rbf7 28.
+Qc5 Qb7 29. Rd1 Rc7 30. Qe3 Rcf7 31. Rdf1 Qc7 32. fxe5 Rxf2 1/2-1/2
+
+[Event "9th London Classic TB"]
+[Site "London ENG"]
+[Date "2017.12.11"]
+[Round "3"]
+[White "Nepomniachtchi, Ian"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2729"]
+[BlackElo "2799"]
+[ECO "A05"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[WhiteFideId "4168119"]
+[BlackFideId "2020009"]
+[EventDate "2017.12.11"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. c4 c6 6. b3 d6 7. d4 e5 8. dxe5
+dxe5 9. Bb2 e4 10. Qxd8 Rxd8 11. Ng5 Bf5 12. Nc3 h6 13. Ncxe4 Nxe4 14. Bxg7 hxg5
+15. Be5 Nd7 16. Bc7 Rdc8 17. Ba5 b6 18. Be1 g4 19. Rd1 Re8 20. f3 gxf3 21. exf3
+Nec5 22. Bc3 Re2 23. g4 Be6 24. Rf2 Rxf2 25. Kxf2 a5 26. h4 f6 27. Rd6 Rc8 28.
+a3 Kf7 29. b4 axb4 30. axb4 Na4 31. Be1 Nb2 32. Bf1 Ne5 33. c5 bxc5 34. bxc5 Bc4
+35. Bc3 Bxf1 36. Bxb2 Nd3+ 37. Kxf1 Nxb2 38. Rd4 Re8 39. Kf2 Re5 40. Rd7+ Re7
+41. Rd4 Re5 42. Rd7+ Kf8 43. Rd6 Ke7 44. Rxc6 Rxc5 45. Rb6 Nd3+ 46. Ke3 Ne5 47.
+Rb7+ Ke6 48. Rb6+ Rc6 49. Rb3 Rd6 50. Ke4 Rc6 51. Ke3 Ra6 52. Kf2 g5 53. Kg3
+gxh4+ 54. Kxh4 Ra1 55. Rb6+ Kf7 56. Rb3 Rg1 57. Kh3 Kg6 58. Kh2 Rd1 59. Kg3 Rd3
+60. Rxd3 Nxd3 61. f4 Nc5 62. Kf3 Kf7 63. Kg3 Ke6 64. Kh4 Nd3 65. f5+ Ke5 66. g5
+fxg5+ 67. Kxg5 Nf4 1/2-1/2
+
+[Event "9th London Classic TB"]
+[Site "London ENG"]
+[Date "2017.12.11"]
+[Round "4"]
+[White "Caruana, Fabiano"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2799"]
+[BlackElo "2729"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[WhiteFideId "2020009"]
+[BlackFideId "4168119"]
+[EventDate "2017.12.11"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. a4 Nc6 5. O-O g6 6. c3 Nf6 7. d4 cxd4 8. cxd4
+Bg7 9. Nc3 O-O 10. h3 a6 11. Bc4 Rc8 12. Re1 Ne8 13. Bb3 Na5 14. Ba2 Nc4 15. Qd3
+b5 16. axb5 axb5 17. b3 Na5 18. Nxb5 Qb6 19. Na3 Nc6 20. Nc2 Nc7 21. Be3 Qb5 22.
+Qd2 d5 23. e5 Bf5 24. Rec1 Ne6 25. Nce1 Be4 26. Nh2 Nb4 27. Rxc8 Rxc8 28. Bb1 h5
+29. Nhf3 Nc6 30. Bc2 Bxc2 31. Qxc2 Rb8 32. Nd3 Bf8 33. Rb1 Ng7 34. Nc5 Nf5 35.
+e6 Bg7 36. exf7+ Kxf7 37. Nd7 Ncxd4 38. Nde5+ Bxe5 39. Nxe5+ Ke6 40. Bxd4 Nxd4
+41. Qxg6+ Kxe5 42. Re1+ Ne2+ 43. Kf1 Kd4 44. Rxe2 e5 45. Qg3 e4 46. Qe3+ Ke5 47.
+Kg1 Qxb3 48. Qg5+ Ke6 49. Qg6+ Kd7 50. Rd2 h4 51. Qf5+ Kc6 52. Qf6+ Kc5 53. Qd4+
+Kc6 54. Qf6+ Kc5 55. Qxh4 Rb7 56. Qd8 Rb6 57. Qc7+ Rc6 58. Qa5+ Kd6 59. Qd8+ Kc5
+60. h4 e3 61. Qe7+ Kb5 62. Qb7+ Rb6 63. Rxd5+ Kc4 64. Qf7 exf2+ 65. Kxf2 Qb2+
+66. Rd2+ 1-0
+
+
