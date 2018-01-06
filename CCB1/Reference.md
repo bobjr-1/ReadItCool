@@ -9,7 +9,7 @@
 ### en 2014
 
 * [Bureau 5/A19](5A19_avis_2014.pdf)
-    * à l'époque occupé par Mme Pereira Dos Santos et M. Libioule
+    * à l'époque occupé par Mme Pereira Dos Santos et M. Libioulle
     * présumé en 2017 "convenir" à 3 agents !!! ([page 45/96](p45.pdf) du reportage de Christian)
     * en 2018 : toujours partagé par 2 agents
 
