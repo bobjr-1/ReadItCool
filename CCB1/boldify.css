@@ -3,7 +3,7 @@ a {
     font-size: 11pt;
 }
 
-h3 {
+h3 span {
     border: 2px purple solid;
     padding: 10px;
     border-radius: 15px;
