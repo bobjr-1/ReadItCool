@@ -1,5 +1,6 @@
 ## Read It Cool
 
+* [**Bobby Fischer**](/Fischer/Evernote.md) in Iceland: 40 Years Ago
 * &Eacute;checs - [**Championnat d'Europe des Clubs 2017**](/ECC_2017_Antalya/Evernote.md) à Antalya ![](TUR.png "Turquie")
 * &Eacute;checs - [**London Chess Classic 2017**](/LCC_2017/Evernote.md) à Londres ![](ENG.png "Angleterre")
 
