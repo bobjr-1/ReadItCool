@@ -14,6 +14,10 @@
 * [**08**](https://www.evernote.com/shard/s122/sh/65b3593c-a071-4b1e-913a-ba3e4aa8cb23/969d48957cfae4a0052b63cc19c1a56e) : Fighting back
 * [**09**](https://www.evernote.com/shard/s122/sh/822865d0-25e8-41db-98b9-18feb2ad9c6b/c5ff918ffd4a21e8e05718cdd98836d2) : Fischer plays the Alekhine
 * [**10**](https://www.evernote.com/shard/s122/sh/75b2321e-159a-439b-a8f3-afedb7926db4/a931aa7e4c27dd23b191eb51c78fd29e) : Like a large, slippery fish...
+* [**11**](https://www.evernote.com/shard/s122/sh/cf84684f-6b1b-48c2-990c-6669ef611e60/9eb7bd33de3ba9ad485027e265beabc0) : Suspicion - or pure desperation
+* [**12**](https://www.evernote.com/shard/s122/sh/5a605ba5-5921-408e-af35-ce7dd7af86ec/f1109d97366cc39216300ac9c74b20a1) : Spassky's ingenuity against Fischer's superior play
+* [**13**](https://www.evernote.com/shard/s122/sh/894125d9-07cc-4477-90c0-d79578a03136/89a2982b7ae4759057943a27b8055475) : Fischer triumphs in the final game
+* [**14**](https://www.evernote.com/shard/s122/sh/a4ebd07c-444a-49d8-8751-33f5ff9a7b41/d6ca63318ce6363dbe378fae7f4690d6) : The First "Instant Book" on a World Chess Championship
 
 ![](PGN.png) "LCC 2017 Games (PGN format)")](1972.pgn) pour télécharger les parties du match  `PGN - 15kb`
 
