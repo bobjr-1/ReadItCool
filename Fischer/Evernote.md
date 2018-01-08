@@ -9,6 +9,9 @@
 * [**03**](https://www.evernote.com/shard/s122/sh/dac64137-80b1-43da-aa13-d2b884a2192a/2b7476b995c0a741e3931061c9a4b3c2) : The drama of game one
 * [**04**](https://www.evernote.com/shard/s122/sh/6b7a0ce7-5daa-41ee-a260-eaced636ba9a/fee75991305ad7079f26c6eb6b306144) : Chess in the ping-pong room
 * [**05**](https://www.evernote.com/shard/s122/sh/6d9a39b3-6324-4a82-a27d-253ff422b8ff/2ec67235d8a7d2704bf2b21e2bb3e579) : The move times recorded
+* [**06**](https://www.evernote.com/shard/s122/sh/c22a02d0-e2d1-408f-86ba-9674b9de7f69/f34a729ce506f091767a79f53e0cd275) : Game six: ideas and refutations
+* [**07**](https://www.evernote.com/shard/s122/sh/f60d54b3-709a-477f-9343-f70e4c1bd490/bf248b1045988369fb38ad71db920c91) : Fischer strikes with 2&half;-&half;
+* [**08**](https://www.evernote.com/shard/s122/sh/65b3593c-a071-4b1e-913a-ba3e4aa8cb23/969d48957cfae4a0052b63cc19c1a56e) : Fighting back
 
 ![](PGN.png) "LCC 2017 Games (PGN format)")](1972.pgn) pour télécharger les parties du match  `PGN - 15kb`
 
