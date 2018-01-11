@@ -3,7 +3,6 @@
 * [Debriefing](CCB1_20140915_Debriefing.pdf) rédigé le 17.09.2014
 * procès-verbal [FR](PV_CCB1_20140915_FR.pdf) - [NL](PV_CCB1_20140915_NL.pdf)
 
-
 ## Documents reçus de Ph. Hulin
 
 ### en 2014
@@ -20,6 +19,10 @@
 * [Doc3](Doc3.pdf) - "normes" utilisables pour les lieux de travail (2012)
 * [surfaces des bureaux du 6ème étage](Atrium_Et6_superficies.pdf)
 * [6ème étage - Aile de l'ABC](ABC_nombre_occupants.pdf) : nombre d'occupants par bureau
+
+## Code du travail
+
+* Version consolidée au [12.06.2017](code2017.pdf)
 
 ## Notes de visite
 
