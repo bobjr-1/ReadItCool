@@ -1,6 +1,6 @@
 ## Read It Cool
 
-* 01.01.2021 [**BFMTV**](https://www.notion.so/Le-Royaume-Uni-quitte-officiellement-l-Union-europ-enne-39f7daa8f8a242a4a8a8634ab313dddd) Le Royaume-Uni quitte officiellement l'Union européenne 
+* 01.01.2021 Le Royaume-Uni quitte officiellement l'Union européenne ([**BFMTV**](https://www.notion.so/Le-Royaume-Uni-quitte-officiellement-l-Union-europ-enne-39f7daa8f8a242a4a8a8634ab313dddd)) 
 * [**Bobby Fischer**](/Fischer/Evernote.md) in Iceland: 40 Years Ago
 * &Eacute;checs - [**Championnat d'Europe des Clubs 2017**](/ECC_2017_Antalya/Evernote.md) à Antalya ![](TUR.png "Turquie")
 * &Eacute;checs - [**London Chess Classic 2017**](/LCC_2017/Evernote.md) à Londres ![](ENG.png "Angleterre")
